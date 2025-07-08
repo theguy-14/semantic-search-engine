@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# Data
+pdfs/
+data/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Mac and Windows system files
+.DS_Store
+Thumbs.db
