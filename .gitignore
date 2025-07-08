@@ -11,7 +11,6 @@ venv/
 
 # Data
 pdfs/
-data/
 
 # IDEs
 .vscode/
