@@ -1,0 +1,2762 @@
+{
+  "2506.19539": {
+    "title": "Lost in Translation? Converting RegExes for Log Parsing into Dynatrace   Pattern Language",
+    "authors": [
+      "Julian Fragner",
+      "Christian Macho",
+      "Bernhard Dieber",
+      "Martin Pinzger"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19539v1",
+    "file_name": "2506.19539v1.Lost_in_Translation__Converting_RegExes_for_Log_Parsing_into_Dynatrace_Pattern_Language.pdf"
+  },
+  "2506.19540": {
+    "title": "Overtuning in Hyperparameter Optimization",
+    "authors": [
+      "Lennart Schneider",
+      "Bernd Bischl",
+      "Matthias Feurer"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19540v1",
+    "file_name": "2506.19540v1.Overtuning_in_Hyperparameter_Optimization.pdf"
+  },
+  "2506.19543": {
+    "title": "Long-term atomistic finite-temperature substitutional diffusion",
+    "authors": [
+      "Shashank Saxena",
+      "Prateek Gupta",
+      "Dennis M. Kochmann"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19543v1",
+    "file_name": "2506.19543v1.Long_term_atomistic_finite_temperature_substitutional_diffusion.pdf"
+  },
+  "2506.19547": {
+    "title": "Understanding the Drag Torque in Common Envelope Evolution",
+    "authors": [
+      "Soumik Bhattacharyya",
+      "Luke Chamandy",
+      "Eric G. Blackman",
+      "Adam Frank",
+      "Baowei Liu"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19547v2",
+    "file_name": "2506.19547v1.Understanding_the_Drag_Torque_in_Common_Envelope_Evolution.pdf"
+  },
+  "2506.19548": {
+    "title": "Health Sentinel: An AI Pipeline For Real-time Disease Outbreak Detection",
+    "authors": [
+      "Devesh Pant",
+      "Rishi Raj Grandhe",
+      "Vipin Samaria",
+      "Mukul Paul",
+      "Sudhir Kumar",
+      "Saransh Khanna",
+      "Jatin Agrawal",
+      "Jushaan Singh Kalra",
+      "Akhil VSSG",
+      "Satish V Khalikar",
+      "Vipin Garg",
+      "Himanshu Chauhan",
+      "Pranay Verma",
+      "Neha Khandelwal",
+      "Soma S Dhavala",
+      "Minesh Mathew"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19548v1",
+    "file_name": "2506.19548v1.Health_Sentinel__An_AI_Pipeline_For_Real_time_Disease_Outbreak_Detection.pdf"
+  },
+  "2506.19549": {
+    "title": "RCStat: A Statistical Framework for using Relative Contextualization in   Transformers",
+    "authors": [
+      "Debabrata Mahapatra",
+      "Shubham Agarwal",
+      "Apoorv Saxena",
+      "Subrata Mitra"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19549v1",
+    "file_name": "2506.19549v1.RCStat__A_Statistical_Framework_for_using_Relative_Contextualization_in_Transformers.pdf"
+  },
+  "2506.19551": {
+    "title": "The vertical structure of the stellar disk in NGC 551",
+    "authors": [
+      "Harshal Raut",
+      "Narendra Nath Patra",
+      "Prerana Biswas",
+      "Nirupam Roy",
+      "Veselina Kalinova",
+      "Sergio Dzib",
+      "Dario Colombo",
+      "Vicente Villanueva",
+      "Sebastián F. Sánchez"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19551v1",
+    "file_name": "2506.19551v1.The_vertical_structure_of_the_stellar_disk_in_NGC_551.pdf"
+  },
+  "2506.19552": {
+    "title": "General Methods Make Great Domain-specific Foundation Models: A   Case-study on Fetal Ultrasound",
+    "authors": [
+      "Jakob Ambsdorf",
+      "Asbjørn Munk",
+      "Sebastian Llambias",
+      "Anders Nymark Christensen",
+      "Kamil Mikolaj",
+      "Randall Balestriero",
+      "Martin Tolsgaard",
+      "Aasa Feragen",
+      "Mads Nielsen"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19552v1",
+    "file_name": "2506.19552v1.General_Methods_Make_Great_Domain_specific_Foundation_Models__A_Case_study_on_Fetal_Ultrasound.pdf"
+  },
+  "2506.19554": {
+    "title": "Modeling the uncertainty on the covariance matrix for probabilistic   forecast reconciliation",
+    "authors": [
+      "Chiara Carrara",
+      "Lorenzo Zambon",
+      "Dario Azzimonti",
+      "Giorgio Corani"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19554v1",
+    "file_name": "2506.19554v1.Modeling_the_uncertainty_on_the_covariance_matrix_for_probabilistic_forecast_reconciliation.pdf"
+  },
+  "2506.19556": {
+    "title": "A deep X-ray/UV look into the reflaring stage of the accreting   millisecond pulsar SAX J1808.4-3658",
+    "authors": [
+      "Caterina Ballocco",
+      "Alessandro Papitto",
+      "Arianna Miraval Zanon",
+      "Giulia Illiano",
+      "Tiziana Di Salvo",
+      "Filippo Ambrosino",
+      "Luciano Burderi",
+      "Sergio Campana",
+      "Francesco Coti Zelati",
+      "Alessandro Di Marco",
+      "Christian Malacaria",
+      "Maura Pilia",
+      "Juri Poutanen",
+      "Tuomo Salmi",
+      "Andrea Sanna"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19556v1",
+    "file_name": "2506.19556v1.A_deep_X_ray_UV_look_into_the_reflaring_stage_of_the_accreting_millisecond_pulsar_SAX_J1808_4_3658.pdf"
+  },
+  "2506.19557": {
+    "title": "Probing the electromagnetic dipole moment of the $τ$ lepton in the   $e^+e^- \\to γ^*/Z \\to τ^+ τ^-$ reaction",
+    "authors": [
+      "Peng-Cheng Lu",
+      "Zong-Guo Si",
+      "Han Zhang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19557v1",
+    "file_name": "2506.19557v1.Probing_the_electromagnetic_dipole_moment_of_the__τ__lepton_in_the__e__e____to_γ___Z__to_τ___τ____reaction.pdf"
+  },
+  "2506.19558": {
+    "title": "ConCM: Consistency-Driven Calibration and Matching for Few-Shot   Class-Incremental Learning",
+    "authors": [
+      "QinZhe Wang",
+      "Zixuan Chen",
+      "Keke Huang",
+      "Xiu Su",
+      "Chunhua Yang",
+      "Chang Xu"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19558v1",
+    "file_name": "2506.19558v1.ConCM__Consistency_Driven_Calibration_and_Matching_for_Few_Shot_Class_Incremental_Learning.pdf"
+  },
+  "2506.19559": {
+    "title": "Regularity of the score function in generative models",
+    "authors": [
+      "Arthur Stéphanovitch"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19559v1",
+    "file_name": "2506.19559v1.Regularity_of_the_score_function_in_generative_models.pdf"
+  },
+  "2506.19561": {
+    "title": "MambaOutRS: A Hybrid CNN-Fourier Architecture for Remote Sensing Image   Classification",
+    "authors": [
+      "Minjong Cheon",
+      "Changbae Mun"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19561v1",
+    "file_name": "2506.19561v1.MambaOutRS__A_Hybrid_CNN_Fourier_Architecture_for_Remote_Sensing_Image_Classification.pdf"
+  },
+  "2506.19563": {
+    "title": "PrivacyXray: Detecting Privacy Breaches in LLMs through Semantic   Consistency and Probability Certainty",
+    "authors": [
+      "Jinwen He",
+      "Yiyang Lu",
+      "Zijin Lin",
+      "Kai Chen",
+      "Yue Zhao"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19563v1",
+    "file_name": "2506.19563v1.PrivacyXray__Detecting_Privacy_Breaches_in_LLMs_through_Semantic_Consistency_and_Probability_Certainty.pdf"
+  },
+  "2506.19564": {
+    "title": "Dalitz Plot Kinematics for a Lorentz-Violating Three-Body Decay",
+    "authors": [
+      "Joshua O'Connor",
+      "Brett Altschul"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19564v1",
+    "file_name": "2506.19564v1.Dalitz_Plot_Kinematics_for_a_Lorentz_Violating_Three_Body_Decay.pdf"
+  },
+  "2506.19566": {
+    "title": "Euclid: Quick Data Release (Q1) -- Watching ICM-selected galaxy clusters   with Euclid eyes -- prospects of Euclid data in the context of large SZ and   X-ray based surveys",
+    "authors": [
+      "M. Klein",
+      "K. George",
+      "J. J. Mohr",
+      "B. Altieri",
+      "L. Amendola",
+      "S. Andreon",
+      "N. Auricchio",
+      "C. Baccigalupi",
+      "M. Baldi",
+      "A. Balestra",
+      "S. Bardelli",
+      "A. Biviano",
+      "E. Branchini",
+      "M. Brescia",
+      "S. Camera",
+      "G. Cañas-Herrera",
+      "V. Capobianco",
+      "C. Carbone",
+      "J. Carretero",
+      "S. Casas",
+      "M. Castellano",
+      "G. Castignani",
+      "S. Cavuoti",
+      "K. C. Chambers",
+      "A. Cimatti",
+      "C. Colodro-Conde",
+      "G. Congedo",
+      "L. Conversi",
+      "Y. Copin",
+      "F. Courbin",
+      "H. M. Courtois",
+      "M. Cropper",
+      "A. Da Silva",
+      "H. Degaudenzi",
+      "G. De Lucia",
+      "C. Dolding",
+      "H. Dole",
+      "F. Dubath",
+      "F. Ducret",
+      "X. Dupac",
+      "S. Dusini",
+      "M. Farina",
+      "R. Farinelli",
+      "F. Faustini",
+      "S. Ferriol",
+      "F. Finelli",
+      "M. Frailis",
+      "E. Franceschi",
+      "M. Fumana",
+      "S. Galeotta",
+      "B. Gillis",
+      "C. Giocoli",
+      "J. Gracia-Carpio",
+      "A. Grazian",
+      "F. Grupp",
+      "S. V. H. Haugan",
+      "W. Holmes",
+      "I. M. Hook",
+      "F. Hormuth",
+      "A. Hornstrup",
+      "K. Jahnke",
+      "M. Jhabvala",
+      "E. Keihänen",
+      "S. Kermiche",
+      "B. Kubik",
+      "M. Kümmel",
+      "M. Kunz",
+      "H. Kurki-Suonio",
+      "A. M. C. Le Brun",
+      "D. Le Mignant",
+      "S. Ligori",
+      "P. B. Lilje",
+      "V. Lindholm",
+      "I. Lloro",
+      "G. Mainetti",
+      "D. Maino",
+      "E. Maiorano",
+      "O. Mansutti",
+      "O. Marggraf",
+      "M. Martinelli",
+      "N. Martinet",
+      "F. Marulli",
+      "R. Massey",
+      "S. Maurogordato",
+      "E. Medinaceli",
+      "S. Mei",
+      "Y. Mellier",
+      "M. Meneghetti",
+      "E. Merlin",
+      "G. Meylan",
+      "L. Moscardini",
+      "R. Nakajima",
+      "C. Neissner",
+      "S. -M. Niemi",
+      "C. Padilla",
+      "S. Paltani",
+      "F. Pasian",
+      "K. Pedersen",
+      "W. J. Percival",
+      "V. Pettorino",
+      "S. Pires",
+      "G. Polenta",
+      "M. Poncet",
+      "L. A. Popa",
+      "L. Pozzetti",
+      "F. Raison",
+      "R. Rebolo",
+      "A. Renzi",
+      "J. Rhodes",
+      "G. Riccio",
+      "E. Romelli",
+      "M. Roncarelli",
+      "C. Rosset",
+      "H. J. A. Rottgering",
+      "R. Saglia",
+      "Z. Sakr",
+      "D. Sapone",
+      "M. Schirmer",
+      "P. Schneider",
+      "T. Schrabback",
+      "A. Secroun",
+      "E. Sefusatti",
+      "G. Seidel",
+      "S. Serrano",
+      "C. Sirignano",
+      "G. Sirri",
+      "L. Stanco",
+      "J. Steinwagner",
+      "P. Tallada-Crespí",
+      "A. N. Taylor",
+      "I. Tereno",
+      "S. Toft",
+      "R. Toledo-Moreo",
+      "F. Torradeflot",
+      "I. Tutusaus",
+      "L. Valenziano",
+      "J. Valiviita",
+      "T. Vassallo",
+      "A. Veropalumbo",
+      "Y. Wang",
+      "J. Weller",
+      "F. M. Zerbi",
+      "E. Zucca",
+      "C. Burigana",
+      "V. Scottez",
+      "M. Sereno",
+      "M. Viel"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19566v1",
+    "file_name": "2506.19566v1.Euclid__Quick_Data_Release__Q1_____Watching_ICM_selected_galaxy_clusters_with_Euclid_eyes____prospects_of_Euclid_data_in_the_context_of_large_SZ_and_X_ray_based_surveys.pdf"
+  },
+  "2506.19567": {
+    "title": "FAF: A Feature-Adaptive Framework for Few-Shot Time Series Forecasting",
+    "authors": [
+      "Pengpeng Ouyang",
+      "Dong Chen",
+      "Tong Yang",
+      "Shuo Feng",
+      "Zhao Jin",
+      "Mingliang Xu"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19567v1",
+    "file_name": "2506.19567v1.FAF__A_Feature_Adaptive_Framework_for_Few_Shot_Time_Series_Forecasting.pdf"
+  },
+  "2506.19568": {
+    "title": "Time-Sensitive Importance Splitting",
+    "authors": [
+      "Gabriel Dengler",
+      "Carlos E. Budde",
+      "Laura Carnevali",
+      "Arnd Hartmanns"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19568v1",
+    "file_name": "2506.19568v1.Time_Sensitive_Importance_Splitting.pdf"
+  },
+  "2506.19569": {
+    "title": "Groupoid models for relative Cuntz-Pimsner algebras of groupoid   correspondences",
+    "authors": [
+      "Ralf Meyer"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19569v1",
+    "file_name": "2506.19569v1.Groupoid_models_for_relative_Cuntz_Pimsner_algebras_of_groupoid_correspondences.pdf"
+  },
+  "2506.19570": {
+    "title": "Searching for stars ejected from the Galactic Centre in DESI",
+    "authors": [
+      "Sill Verberne",
+      "Sergey E. Koposov",
+      "Elena Maria Rossi",
+      "Zephyr Penoyre"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19570v1",
+    "file_name": "2506.19570v1.Searching_for_stars_ejected_from_the_Galactic_Centre_in_DESI.pdf"
+  },
+  "2506.19571": {
+    "title": "Has Machine Translation Evaluation Achieved Human Parity? The Human   Reference and the Limits of Progress",
+    "authors": [
+      "Lorenzo Proietti",
+      "Stefano Perrella",
+      "Roberto Navigli"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19571v1",
+    "file_name": "2506.19571v1.Has_Machine_Translation_Evaluation_Achieved_Human_Parity__The_Human_Reference_and_the_Limits_of_Progress.pdf"
+  },
+  "2506.19572": {
+    "title": "Isoprobability Models of Qubit Dynamics: Demonstration via   Time-Dependent Phase Control on IBM Quantum",
+    "authors": [
+      "Ivo S. Mihov",
+      "Nikolay V. Vitanov"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19572v1",
+    "file_name": "2506.19572v1.Isoprobability_Models_of_Qubit_Dynamics__Demonstration_via_Time_Dependent_Phase_Control_on_IBM_Quantum.pdf"
+  },
+  "2506.19573": {
+    "title": "Interpretable Hybrid Machine Learning Models Using FOLD-R++ and Answer   Set Programming",
+    "authors": [
+      "Sanne Wielinga",
+      "Jesse Heyninck"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19573v1",
+    "file_name": "2506.19573v1.Interpretable_Hybrid_Machine_Learning_Models_Using_FOLD_R___and_Answer_Set_Programming.pdf"
+  },
+  "2506.19576": {
+    "title": "Bayesian community detection in assortative stochastic block model with   unknown number of communities",
+    "authors": [
+      "Martina Amongero",
+      "Pierpaolo De Blasi"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19576v1",
+    "file_name": "2506.19576v1.Bayesian_community_detection_in_assortative_stochastic_block_model_with_unknown_number_of_communities.pdf"
+  },
+  "2506.19578": {
+    "title": "Towards an Introspective Dynamic Model of Globally Distributed Computing   Infrastructures",
+    "authors": [
+      "Ozgur O. Kilic",
+      "David K. Park",
+      "Yihui Ren",
+      "Tatiana Korchuganova",
+      "Sairam Sri Vatsavai",
+      "Joseph Boudreau",
+      "Tasnuva Chowdhury",
+      "Shengyu Feng",
+      "Raees Khan",
+      "Jaehyung Kim",
+      "Scott Klasky",
+      "Tadashi Maeno",
+      "Paul Nilsson",
+      "Verena Ingrid Martinez Outschoorn",
+      "Norbert Podhorszki",
+      "Frédéric Suter",
+      "Wei Yang",
+      "Yiming Yang",
+      "Shinjae Yoo",
+      "Alexei Klimentov",
+      "Adolfy Hoisie"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19578v1",
+    "file_name": "2506.19578v1.Towards_an_Introspective_Dynamic_Model_of_Globally_Distributed_Computing_Infrastructures.pdf"
+  },
+  "2506.19579": {
+    "title": "Fake or Real, Can Robots Tell? Evaluating Embodied Vision-Language   Models on Real and 3D-Printed Objects",
+    "authors": [
+      "Federico Tavella",
+      "Kathryn Mearns",
+      "Angelo Cangelosi"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19579v1",
+    "file_name": "2506.19579v1.Fake_or_Real__Can_Robots_Tell__Evaluating_Embodied_Vision_Language_Models_on_Real_and_3D_Printed_Objects.pdf"
+  },
+  "2506.19583": {
+    "title": "ConStellaration: A dataset of QI-like stellarator plasma boundaries and   optimization benchmarks",
+    "authors": [
+      "Santiago A. Cadena",
+      "Andrea Merlo",
+      "Emanuel Laude",
+      "Alexander Bauer",
+      "Atul Agrawal",
+      "Maria Pascu",
+      "Marija Savtchouk",
+      "Enrico Guiraud",
+      "Lukas Bonauer",
+      "Stuart Hudson",
+      "Markus Kaiser"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19583v1",
+    "file_name": "2506.19583v1.ConStellaration__A_dataset_of_QI_like_stellarator_plasma_boundaries_and_optimization_benchmarks.pdf"
+  },
+  "2506.19585": {
+    "title": "SMARTIES: Spectrum-Aware Multi-Sensor Auto-Encoder for Remote Sensing   Images",
+    "authors": [
+      "Gencer Sumbul",
+      "Chang Xu",
+      "Emanuele Dalsasso",
+      "Devis Tuia"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19585v1",
+    "file_name": "2506.19585v1.SMARTIES__Spectrum_Aware_Multi_Sensor_Auto_Encoder_for_Remote_Sensing_Images.pdf"
+  },
+  "2506.19586": {
+    "title": "Single-Index Quantile Factor Model with Observed Characteristics",
+    "authors": [
+      "Ruofan Xu",
+      "Qingliang Fan"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19586v1",
+    "file_name": "2506.19586v1.Single_Index_Quantile_Factor_Model_with_Observed_Characteristics.pdf"
+  },
+  "2506.19587": {
+    "title": "Generative model for optimal density estimation on unknown manifold",
+    "authors": [
+      "Arthur Stéphanovitch"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19587v1",
+    "file_name": "2506.19587v1.Generative_model_for_optimal_density_estimation_on_unknown_manifold.pdf"
+  },
+  "2506.19588": {
+    "title": "Implementation and Analysis of Different Geomagnetic Field Models for   Attitude Determination and Control System (ADCS) of a Satellite",
+    "authors": [
+      "Hoor Bano",
+      "Tatiana Podladchikova",
+      "Bisma Sajid",
+      "Dmitry Ris"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19588v1",
+    "file_name": "2506.19588v1.Implementation_and_Analysis_of_Different_Geomagnetic_Field_Models_for_Attitude_Determination_and_Control_System__ADCS__of_a_Satellite.pdf"
+  },
+  "2506.19590": {
+    "title": "Learning from Anatomy: Supervised Anatomical Pretraining (SAP) for   Improved Metastatic Bone Disease Segmentation in Whole-Body MRI",
+    "authors": [
+      "Joris Wuts",
+      "Jakub Ceranka",
+      "Nicolas Michoux",
+      "Frédéric Lecouvet",
+      "Jef Vandemeulebroucke"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19590v1",
+    "file_name": "2506.19590v1.Learning_from_Anatomy__Supervised_Anatomical_Pretraining__SAP__for_Improved_Metastatic_Bone_Disease_Segmentation_in_Whole_Body_MRI.pdf"
+  },
+  "2506.19592": {
+    "title": "Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to   Task Planning",
+    "authors": [
+      "Harisankar Babu",
+      "Philipp Schillinger",
+      "Tamim Asfour"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19592v2",
+    "file_name": "2506.19592v1.Adaptive_Domain_Modeling_with_Language_Models__A_Multi_Agent_Approach_to_Task_Planning.pdf"
+  },
+  "2506.19594": {
+    "title": "Numerical solution of quantum Landau-Lifshitz-Gilbert equation",
+    "authors": [
+      "Vahid Azimi-Mousolou",
+      "Davoud Mirzaei"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19594v1",
+    "file_name": "2506.19594v1.Numerical_solution_of_quantum_Landau_Lifshitz_Gilbert_equation.pdf"
+  },
+  "2506.19596": {
+    "title": "Entanglement and quench dynamics in the thermally perturbed tricritical   fixed point",
+    "authors": [
+      "Csilla Király",
+      "Máté Lencsés"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19596v2",
+    "file_name": "2506.19596v1.Entanglement_and_quench_dynamics_in_the_thermally_perturbed_tricritical_fixed_point.pdf"
+  },
+  "2506.19598": {
+    "title": "Training Flexible Models of Genetic Variant Effects from Functional   Annotations using Accelerated Linear Algebra",
+    "authors": [
+      "Alan N. Amin",
+      "Andres Potapczynski",
+      "Andrew Gordon Wilson"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19598v2",
+    "file_name": "2506.19598v1.Training_Flexible_Models_of_Genetic_Variant_Effects_from_Functional_Annotations_using_Accelerated_Linear_Algebra.pdf"
+  },
+  "2506.19599": {
+    "title": "ECCoT: A Framework for Enhancing Effective Cognition via Chain of   Thought in Large Language Model",
+    "authors": [
+      "Zhenke Duan",
+      "Jiqun Pan",
+      "Jiani Tu",
+      "Xiaoyi Wang",
+      "Yanqing Wang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19599v1",
+    "file_name": "2506.19599v1.ECCoT__A_Framework_for_Enhancing_Effective_Cognition_via_Chain_of_Thought_in_Large_Language_Model.pdf"
+  },
+  "2506.19600": {
+    "title": "Filling of incomplete sinograms from sparse PET detector configurations   using a residual U-Net",
+    "authors": [
+      "Klara Leffler",
+      "Luigi Tommaso Luppino",
+      "Samuel Kuttner",
+      "Karin Söderkvist",
+      "Jan Axelsson"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19600v1",
+    "file_name": "2506.19600v1.Filling_of_incomplete_sinograms_from_sparse_PET_detector_configurations_using_a_residual_U_Net.pdf"
+  },
+  "2506.19602": {
+    "title": "Soft Robotic Delivery of Coiled Anchors for Cardiac Interventions",
+    "authors": [
+      "Leonardo Zamora Yanez",
+      "Jacob Rogatinsky",
+      "Dominic Recco",
+      "Sang-Yoep Lee",
+      "Grace Matthews",
+      "Andrew P. Sabelhaus",
+      "Tommaso Ranzani"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19602v1",
+    "file_name": "2506.19602v1.Soft_Robotic_Delivery_of_Coiled_Anchors_for_Cardiac_Interventions.pdf"
+  },
+  "2506.19603": {
+    "title": "Social Hatred: Efficient Multimodal Detection of Hatemongers",
+    "authors": [
+      "Tom Marzea",
+      "Abraham Israeli",
+      "Oren Tsur"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19603v1",
+    "file_name": "2506.19603v1.Social_Hatred__Efficient_Multimodal_Detection_of_Hatemongers.pdf"
+  },
+  "2506.19604": {
+    "title": "A primer on the closure of algebraic complexity classes under factoring",
+    "authors": [
+      "C. S. Bhargav",
+      "Prateek Dwivedi",
+      "Nitin Saxena"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19604v1",
+    "file_name": "2506.19604v1.A_primer_on_the_closure_of_algebraic_complexity_classes_under_factoring.pdf"
+  },
+  "2506.19607": {
+    "title": "Correcting Hallucinations in News Summaries: Exploration of   Self-Correcting LLM Methods with External Knowledge",
+    "authors": [
+      "Juraj Vladika",
+      "Ihsan Soydemir",
+      "Florian Matthes"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19607v1",
+    "file_name": "2506.19607v1.Correcting_Hallucinations_in_News_Summaries__Exploration_of_Self_Correcting_LLM_Methods_with_External_Knowledge.pdf"
+  },
+  "2506.19608": {
+    "title": "ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain   Incremental Learning in CLIP",
+    "authors": [
+      "Zhiyuan Wang",
+      "Bokui Chen"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19608v1",
+    "file_name": "2506.19608v1.ChordPrompt__Orchestrating_Cross_Modal_Prompt_Synergy_for_Multi_Domain_Incremental_Learning_in_CLIP.pdf"
+  },
+  "2506.19609": {
+    "title": "Beyond Static Models: Hypernetworks for Adaptive and Generalizable   Forecasting in Complex Parametric Dynamical Systems",
+    "authors": [
+      "Pantelis R. Vlachas",
+      "Konstantinos Vlachas",
+      "Eleni Chatzi"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19609v1",
+    "file_name": "2506.19609v1.Beyond_Static_Models__Hypernetworks_for_Adaptive_and_Generalizable_Forecasting_in_Complex_Parametric_Dynamical_Systems.pdf"
+  },
+  "2506.19610": {
+    "title": "V2T-CoT: From Vision to Text Chain-of-Thought for Medical Reasoning and   Diagnosis",
+    "authors": [
+      "Yuan Wang",
+      "Jiaxiang Liu",
+      "Shujian Gao",
+      "Bin Feng",
+      "Zhihang Tang",
+      "Xiaotang Gai",
+      "Jian Wu",
+      "Zuozhu Liu"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19610v2",
+    "file_name": "2506.19610v1.V2T_CoT__From_Vision_to_Text_Chain_of_Thought_for_Medical_Reasoning_and_Diagnosis.pdf"
+  },
+  "2506.19613": {
+    "title": "Position: Intelligent Science Laboratory Requires the Integration of   Cognitive and Embodied AI",
+    "authors": [
+      "Sha Zhang",
+      "Suorong Yang",
+      "Tong Xie",
+      "Xiangyuan Xue",
+      "Zixuan Hu",
+      "Rui Li",
+      "Wenxi Qu",
+      "Zhenfei Yin",
+      "Tianfan Fu",
+      "Di Hu",
+      "Andres M Bran",
+      "Nian Ran",
+      "Bram Hoex",
+      "Wangmeng Zuo",
+      "Philippe Schwaller",
+      "Wanli Ouyang",
+      "Lei Bai",
+      "Yanyong Zhang",
+      "Lingyu Duan",
+      "Shixiang Tang",
+      "Dongzhan Zhou"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19613v1",
+    "file_name": "2506.19613v1.Position__Intelligent_Science_Laboratory_Requires_the_Integration_of_Cognitive_and_Embodied_AI.pdf"
+  },
+  "2506.19615": {
+    "title": "Self-Supervised Multimodal NeRF for Autonomous Driving",
+    "authors": [
+      "Gaurav Sharma",
+      "Ravi Kothari",
+      "Josef Schmid"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19615v2",
+    "file_name": "2506.19615v1.Self_Supervised_Multimodal_NeRF_for_Autonomous_Driving.pdf"
+  },
+  "2506.19617": {
+    "title": "Mobile oscillators in a mobile multi-cluster network",
+    "authors": [
+      "Venceslas Nguefoue Meli",
+      "Thierry Njougouo",
+      "Steve J. Kongni",
+      "Patrick Louodop",
+      "Hilaire Bertrand Fotsin",
+      "Hilda A. Cerdeira"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19617v1",
+    "file_name": "2506.19617v1.Mobile_oscillators_in_a_mobile_multi_cluster_network.pdf"
+  },
+  "2506.19620": {
+    "title": "Probabilistic modelling and safety assurance of an agriculture robot   providing light-treatment",
+    "authors": [
+      "Mustafa Adam",
+      "Kangfeng Ye",
+      "David A. Anisi",
+      "Ana Cavalcanti",
+      "Jim Woodcock",
+      "Robert Morris"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19620v1",
+    "file_name": "2506.19620v1.Probabilistic_modelling_and_safety_assurance_of_an_agriculture_robot_providing_light_treatment.pdf"
+  },
+  "2506.19621": {
+    "title": "VideoPCDNet: Video Parsing and Prediction with Phase Correlation   Networks",
+    "authors": [
+      "Noel José Rodrigues Vicente",
+      "Enrique Lehner",
+      "Angel Villar-Corrales",
+      "Jan Nogga",
+      "Sven Behnke"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19621v1",
+    "file_name": "2506.19621v1.VideoPCDNet__Video_Parsing_and_Prediction_with_Phase_Correlation_Networks.pdf"
+  },
+  "2506.19622": {
+    "title": "A Verification Methodology for Safety Assurance of Robotic Autonomous   Systems",
+    "authors": [
+      "Mustafa Adam",
+      "David A. Anisi",
+      "Pedro Ribeiro"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19622v1",
+    "file_name": "2506.19622v1.A_Verification_Methodology_for_Safety_Assurance_of_Robotic_Autonomous_Systems.pdf"
+  },
+  "2506.19624": {
+    "title": "Decompiling Smart Contracts with a Large Language Model",
+    "authors": [
+      "Isaac David",
+      "Liyi Zhou",
+      "Dawn Song",
+      "Arthur Gervais",
+      "Kaihua Qin"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19624v1",
+    "file_name": "2506.19624v1.Decompiling_Smart_Contracts_with_a_Large_Language_Model.pdf"
+  },
+  "2506.19626": {
+    "title": "Scaling Up Unbiased Search-based Symbolic Regression",
+    "authors": [
+      "Paul Kahlmeyer",
+      "Joachim Giesen",
+      "Michael Habeck",
+      "Henrik Voigt"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19626v1",
+    "file_name": "2506.19626v1.Scaling_Up_Unbiased_Search_based_Symbolic_Regression.pdf"
+  },
+  "2506.19627": {
+    "title": "On Error Rate Approximations for FSO Systems with Weak Turbulence and   Pointing Errors",
+    "authors": [
+      "Carmen Álvarez Roa",
+      "Yunus Can Gültekin",
+      "Kaiquan Wu",
+      "Cornelis Willem Korevaar",
+      "Alex Alvarado"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19627v1",
+    "file_name": "2506.19627v1.On_Error_Rate_Approximations_for_FSO_Systems_with_Weak_Turbulence_and_Pointing_Errors.pdf"
+  },
+  "2506.19630": {
+    "title": "Why Uncertainty Calibration Matters for Reliable Perturbation-based   Explanations",
+    "authors": [
+      "Thomas Decker",
+      "Volker Tresp",
+      "Florian Buettner"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19630v1",
+    "file_name": "2506.19630v1.Why_Uncertainty_Calibration_Matters_for_Reliable_Perturbation_based_Explanations.pdf"
+  },
+  "2506.19631": {
+    "title": "Error recovery protocols within metastable Decoherence-Free Subspaces",
+    "authors": [
+      "Thomas Botzung",
+      "Eliana Fiorelli"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19631v1",
+    "file_name": "2506.19631v1.Error_recovery_protocols_within_metastable_Decoherence_Free_Subspaces.pdf"
+  },
+  "2506.19632": {
+    "title": "Solving the QCD effective kinetic theory with neural networks",
+    "authors": [
+      "Sergio Barrera Cabodevila",
+      "Aleksi Kurkela",
+      "Florian Lindenbauer"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19632v1",
+    "file_name": "2506.19632v1.Solving_the_QCD_effective_kinetic_theory_with_neural_networks.pdf"
+  },
+  "2506.19633": {
+    "title": "Hierarchical Time Series Forecasting Via Latent Mean Encoding",
+    "authors": [
+      "Alessandro Salatiello",
+      "Stefan Birr",
+      "Manuel Kunz"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19633v1",
+    "file_name": "2506.19633v1.Hierarchical_Time_Series_Forecasting_Via_Latent_Mean_Encoding.pdf"
+  },
+  "2506.19636": {
+    "title": "Resilience assessment framework for cyber-physical distribution power   system based on coordinated cyber-physical attacks under dynamic game",
+    "authors": [
+      "Yulin Liu",
+      "Zhaojun Ruan",
+      "Libao Shi"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19636v1",
+    "file_name": "2506.19636v1.Resilience_assessment_framework_for_cyber_physical_distribution_power_system_based_on_coordinated_cyber_physical_attacks_under_dynamic_game.pdf"
+  },
+  "2506.19637": {
+    "title": "Long-range Order in a Short-range Quasi-2D XY Model",
+    "authors": [
+      "Minghui Hu",
+      "Chao Zhang",
+      "Dajun Zhang",
+      "Yanan Sun",
+      "Youjin Deng",
+      "Jian-Ping Lv"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19637v1",
+    "file_name": "2506.19637v1.Long_range_Order_in_a_Short_range_Quasi_2D_XY_Model.pdf"
+  },
+  "2506.19639": {
+    "title": "HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions",
+    "authors": [
+      "Mrunmai Vivek Phatak",
+      "Julian Lorenz",
+      "Nico Hörmann",
+      "Jörg Hähner",
+      "Rainer Lienhart"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19639v1",
+    "file_name": "2506.19639v1.HOIverse__A_Synthetic_Scene_Graph_Dataset_With_Human_Object_Interactions.pdf"
+  },
+  "2506.19642": {
+    "title": "The receptron is a nonlinear threshold logic gate with intrinsic   multi-dimensional selective capabilities for analog inputs",
+    "authors": [
+      "B. Paroli",
+      "F. Borghi",
+      "M. A. C. Potenza",
+      "P. Milani"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19642v1",
+    "file_name": "2506.19642v1.The_receptron_is_a_nonlinear_threshold_logic_gate_with_intrinsic_multi_dimensional_selective_capabilities_for_analog_inputs.pdf"
+  },
+  "2506.19643": {
+    "title": "Unsupervised Data Generation for Offline Reinforcement Learning: A   Perspective from Model",
+    "authors": [
+      "Shuncheng He",
+      "Hongchang Zhang",
+      "Jianzhun Shao",
+      "Yuhang Jiang",
+      "Xiangyang Ji"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19643v1",
+    "file_name": "2506.19643v1.Unsupervised_Data_Generation_for_Offline_Reinforcement_Learning__A_Perspective_from_Model.pdf"
+  },
+  "2506.19644": {
+    "title": "Varif.ai to Vary and Verify User-Driven Diversity in Scalable Image   Generation",
+    "authors": [
+      "M. Michelessa",
+      "J. Ng",
+      "C. Hurter",
+      "B. Y. Lim"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19644v1",
+    "file_name": "2506.19644v1.Varif_ai_to_Vary_and_Verify_User_Driven_Diversity_in_Scalable_Image_Generation.pdf"
+  },
+  "2506.19645": {
+    "title": "Tensor-Parallelism with Partially Synchronized Activations",
+    "authors": [
+      "Itay Lamprecht",
+      "Asaf Karnieli",
+      "Yair Hanani",
+      "Niv Giladi",
+      "Daniel Soudry"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19645v1",
+    "file_name": "2506.19645v1.Tensor_Parallelism_with_Partially_Synchronized_Activations.pdf"
+  },
+  "2506.19646": {
+    "title": "Learning to Solve Parametric Mixed-Integer Optimal Control Problems via   Differentiable Predictive Control",
+    "authors": [
+      "Ján Boldocký",
+      "Shahriar Dadras Javan",
+      "Martin Gulan",
+      "Martin Mönnigmann",
+      "Ján Drgoňa"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19646v1",
+    "file_name": "2506.19646v1.Learning_to_Solve_Parametric_Mixed_Integer_Optimal_Control_Problems_via_Differentiable_Predictive_Control.pdf"
+  },
+  "2506.19647": {
+    "title": "Electromagnetic and Centrifugal Effects on Plasma Acceleration in the   Magnetic Nozzle",
+    "authors": [
+      "A. I. Smolyakov",
+      "A. Sabo",
+      "S. I. Krasheninnikov",
+      "P. N. Yushmanov"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19647v1",
+    "file_name": "2506.19647v1.Electromagnetic_and_Centrifugal_Effects_on_Plasma_Acceleration_in_the_Magnetic_Nozzle.pdf"
+  },
+  "2506.19648": {
+    "title": "On the Age of Information in Single-Server Queues with Aged Updates",
+    "authors": [
+      "Fernando Miguelez",
+      "Urtzi Ayesta",
+      "Josu Doncel",
+      "Maria Dolores Ugarte"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19648v1",
+    "file_name": "2506.19648v1.On_the_Age_of_Information_in_Single_Server_Queues_with_Aged_Updates.pdf"
+  },
+  "2506.19649": {
+    "title": "A corresponding relationship between nonlinear Hermitian systems and   linear non-Hermitian models",
+    "authors": [
+      "Yu-Hao Wang",
+      "Yan-Hong Qin",
+      "Jie Liu",
+      "Li-Chen Zhao"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19649v1",
+    "file_name": "2506.19649v1.A_corresponding_relationship_between_nonlinear_Hermitian_systems_and_linear_non_Hermitian_models.pdf"
+  },
+  "2506.19650": {
+    "title": "Identifying Macro Causal Effects in C-DMGs over DMGs",
+    "authors": [
+      "Simon Ferreira",
+      "Charles K. Assaad"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19650v1",
+    "file_name": "2506.19650v1.Identifying_Macro_Causal_Effects_in_C_DMGs_over_DMGs.pdf"
+  },
+  "2506.19651": {
+    "title": "PEVLM: Parallel Encoding for Vision-Language Models",
+    "authors": [
+      "Letian Kang",
+      "Shixian Luo",
+      "Yiqiang Li",
+      "Xiaoyang Yu",
+      "Shenxuan Zhou",
+      "Yong Wu"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19651v2",
+    "file_name": "2506.19651v1.PEVLM__Parallel_Encoding_for_Vision_Language_Models.pdf"
+  },
+  "2506.19652": {
+    "title": "Tailored Conversations beyond LLMs: A RL-Based Dialogue Manager",
+    "authors": [
+      "Lucie Galland",
+      "Catherine Pelachaud",
+      "Florian Pecune"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19652v2",
+    "file_name": "2506.19652v1.Tailored_Conversations_beyond_LLMs__A_RL_Based_Dialogue_Manager.pdf"
+  },
+  "2506.19653": {
+    "title": "Simulating the Waterfall Model: A Systematic Review",
+    "authors": [
+      "Antonios Saravanos"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19653v1",
+    "file_name": "2506.19653v1.Simulating_the_Waterfall_Model__A_Systematic_Review.pdf"
+  },
+  "2506.19655": {
+    "title": "How trust networks shape students' opinions about the proficiency of   artificially intelligent assistants",
+    "authors": [
+      "Yutong Bu",
+      "Andrew Melatos",
+      "Robin Evans"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19655v1",
+    "file_name": "2506.19655v1.How_trust_networks_shape_students__opinions_about_the_proficiency_of_artificially_intelligent_assistants.pdf"
+  },
+  "2506.19656": {
+    "title": "Video Compression for Spatiotemporal Earth System Data",
+    "authors": [
+      "Oscar J. Pellicer-Valero",
+      "Cesar Aybar",
+      "Gustau Camps Valls"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19656v1",
+    "file_name": "2506.19656v1.Video_Compression_for_Spatiotemporal_Earth_System_Data.pdf"
+  },
+  "2506.19658": {
+    "title": "SAM2-SGP: Enhancing SAM2 for Medical Image Segmentation via Support-Set   Guided Prompting",
+    "authors": [
+      "Yang Xing",
+      "Jiong Wu",
+      "Yuheng Bu",
+      "Kuang Gong"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19658v1",
+    "file_name": "2506.19658v1.SAM2_SGP__Enhancing_SAM2_for_Medical_Image_Segmentation_via_Support_Set_Guided_Prompting.pdf"
+  },
+  "2506.19660": {
+    "title": "PS-WL: A Probability-Sensitive Wear Leveling scheme for SSD array   scaling",
+    "authors": [
+      "Shuhang Xu",
+      "Yunfei Gu",
+      "Linhui Liu",
+      "Chentao Wu"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19660v2",
+    "file_name": "2506.19660v1.PS_WL__A_Probability_Sensitive_Wear_Leveling_scheme_for_SSD_array_scaling.pdf"
+  },
+  "2506.19661": {
+    "title": "Higher-Order Graph Databases",
+    "authors": [
+      "Maciej Besta",
+      "Shriram Chandran",
+      "Jakub Cudak",
+      "Patrick Iff",
+      "Marcin Copik",
+      "Robert Gerstenberger",
+      "Tomasz Szydlo",
+      "Jürgen Müller",
+      "Torsten Hoefler"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19661v1",
+    "file_name": "2506.19661v1.Higher_Order_Graph_Databases.pdf"
+  },
+  "2506.19662": {
+    "title": "Multimodal large language models and physics visual tasks: comparative   analysis of performance and costs",
+    "authors": [
+      "Giulia Polverini",
+      "Bor Gregorcic"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19662v1",
+    "file_name": "2506.19662v1.Multimodal_large_language_models_and_physics_visual_tasks__comparative_analysis_of_performance_and_costs.pdf"
+  },
+  "2506.19664": {
+    "title": "Determination of Asymptotic Normalization Coefficients Based on the   Dispersive Optical Model",
+    "authors": [
+      "O. V. Bespalova",
+      "L. D. Blokhintsev",
+      "A. A. Klimochkina",
+      "D. A. Savin"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19664v1",
+    "file_name": "2506.19664v1.Determination_of_Asymptotic_Normalization_Coefficients_Based_on_the_Dispersive_Optical_Model.pdf"
+  },
+  "2506.19665": {
+    "title": "Recurrent Visual Feature Extraction and Stereo Attentions for CT Report   Generation",
+    "authors": [
+      "Yuanhe Tian",
+      "Lei Mao",
+      "Yan Song"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19665v1",
+    "file_name": "2506.19665v1.Recurrent_Visual_Feature_Extraction_and_Stereo_Attentions_for_CT_Report_Generation.pdf"
+  },
+  "2506.19666": {
+    "title": "Fast Flexible LSQR with a Hybrid Variant for Efficient Large-Scale   Regularization",
+    "authors": [
+      "Eva Mikušová",
+      "Iveta Hnětynková"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19666v1",
+    "file_name": "2506.19666v1.Fast_Flexible_LSQR_with_a_Hybrid_Variant_for_Efficient_Large_Scale_Regularization.pdf"
+  },
+  "2506.19667": {
+    "title": "Infinite polynomial patterns in large subsets of the rational numbers",
+    "authors": [
+      "Ethan Ackelsberg"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19667v2",
+    "file_name": "2506.19667v1.Infinite_polynomial_patterns_in_large_subsets_of_the_rational_numbers.pdf"
+  },
+  "2506.19668": {
+    "title": "HD 143006: Interferometric Confirmation of Misaligned Protoplanetary   Disc with CHARA/MIRCX and VLTI/PIONIER",
+    "authors": [
+      "I. Codron",
+      "S. Kraus",
+      "J. D. Monnier",
+      "S. Marino",
+      "C. L. Davies",
+      "N. Anugu",
+      "T. Gardner",
+      "N. Ibrahim",
+      "C. Lanthermann",
+      "J-B Le Bouquin"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19668v1",
+    "file_name": "2506.19668v1.HD_143006__Interferometric_Confirmation_of_Misaligned_Protoplanetary_Disc_with_CHARA_MIRCX_and_VLTI_PIONIER.pdf"
+  },
+  "2506.19669": {
+    "title": "Probing Phonon Modes in Reconstructed twisted Homo and Hetero Bilayer   System",
+    "authors": [
+      "Sushil Kumar Sahu",
+      "Robin Bajaj",
+      "Syed Ummair Ali",
+      "Ajay Bhut",
+      "Roshan Jesus Mathew",
+      "Shinjan Mandal",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Manish Jain",
+      "Chandan Kumar"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19669v1",
+    "file_name": "2506.19669v1.Probing_Phonon_Modes_in_Reconstructed_twisted_Homo_and_Hetero_Bilayer_System.pdf"
+  },
+  "2506.19674": {
+    "title": "Massive Atomic Diversity: a compact universal dataset for atomistic   machine learning",
+    "authors": [
+      "Arslan Mazitov",
+      "Sofiia Chorna",
+      "Guillaume Fraux",
+      "Marnik Bercx",
+      "Giovanni Pizzi",
+      "Sandip De",
+      "Michele Ceriotti"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19674v1",
+    "file_name": "2506.19674v1.Massive_Atomic_Diversity__a_compact_universal_dataset_for_atomistic_machine_learning.pdf"
+  },
+  "2506.19675": {
+    "title": "On the global breadth of finite groups with nontrivial partitions",
+    "authors": [
+      "Seid Kassaw Muhie",
+      "Daniele Ettore Otera",
+      "Francesco G. Russo"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19675v1",
+    "file_name": "2506.19675v1.On_the_global_breadth_of_finite_groups_with_nontrivial_partitions.pdf"
+  },
+  "2506.19676": {
+    "title": "A Survey of LLM-Driven AI Agent Communication: Protocols, Security   Risks, and Defense Countermeasures",
+    "authors": [
+      "Dezhang Kong",
+      "Shi Lin",
+      "Zhenhua Xu",
+      "Zhebo Wang",
+      "Minghao Li",
+      "Yufeng Li",
+      "Yilun Zhang",
+      "Hujin Peng",
+      "Zeyang Sha",
+      "Yuyuan Li",
+      "Changting Lin",
+      "Xun Wang",
+      "Xuan Liu",
+      "Ningyu Zhang",
+      "Chaochao Chen",
+      "Muhammad Khurram Khan",
+      "Meng Han"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19676v3",
+    "file_name": "2506.19676v1.A_Survey_of_LLM_Driven_AI_Agent_Communication__Protocols__Security_Risks__and_Defense_Countermeasures.pdf"
+  },
+  "2506.19677": {
+    "title": "Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees",
+    "authors": [
+      "Shi Chang",
+      "Boyuan Chen",
+      "Kishanthan Thangarajah",
+      "Hanan Lutfiyya",
+      "Ahmed E. Hassan"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19677v2",
+    "file_name": "2506.19677v1.Adaptive_Request_Scheduling_for_CodeLLM_Serving_with_SLA_Guarantees.pdf"
+  },
+  "2506.19678": {
+    "title": "Uncovering the origin of bound state in the continuum",
+    "authors": [
+      "Zeyu Rao",
+      "Changling Zou",
+      "Yang Chen",
+      "Guangcan Guo",
+      "Ming Gong"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19678v1",
+    "file_name": "2506.19678v1.Uncovering_the_origin_of_bound_state_in_the_continuum.pdf"
+  },
+  "2506.19679": {
+    "title": "Extreme Learning Machines for Exoplanet Simulations: A Faster,   Lightweight Alternative to Deep Learning",
+    "authors": [
+      "Tara P. A. Tahseen",
+      "Luís F. Simões",
+      "Kai Hou Yip",
+      "Nikolaos Nikolaou",
+      "João M. Mendonça",
+      "Ingo P. Waldmann"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19679v1",
+    "file_name": "2506.19679v1.Extreme_Learning_Machines_for_Exoplanet_Simulations__A_Faster__Lightweight_Alternative_to_Deep_Learning.pdf"
+  },
+  "2506.19680": {
+    "title": "Model Guidance via Robust Feature Attribution",
+    "authors": [
+      "Mihnea Ghitu",
+      "Matthew Wicker",
+      "Vihari Piratla"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19680v1",
+    "file_name": "2506.19680v1.Model_Guidance_via_Robust_Feature_Attribution.pdf"
+  },
+  "2506.19681": {
+    "title": "Genome-Anchored Foundation Model Embeddings Improve Molecular Prediction   from Histology Images",
+    "authors": [
+      "Cheng Jin",
+      "Fengtao Zhou",
+      "Yunfang Yu",
+      "Jiabo Ma",
+      "Yihui Wang",
+      "Yingxue Xu",
+      "Huajun Zhou",
+      "Hao Jiang",
+      "Luyang Luo",
+      "Luhui Mao",
+      "Zifan He",
+      "Xiuming Zhang",
+      "Jing Zhang",
+      "Ronald Chan",
+      "Herui Yao",
+      "Hao Chen"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19681v1",
+    "file_name": "2506.19681v1.Genome_Anchored_Foundation_Model_Embeddings_Improve_Molecular_Prediction_from_Histology_Images.pdf"
+  },
+  "2506.19682": {
+    "title": "The electronic structure of a doped Mott-Hubbard surface",
+    "authors": [
+      "Mattia Iannetti",
+      "Silvio Modesti",
+      "Giovanni Di Santo",
+      "Marco Caputo",
+      "Polina M. Sheverdyaeva",
+      "Paolo Moras",
+      "Fabio Chiapolino",
+      "Tommaso Cea",
+      "Cesare Tresca",
+      "Erio Tosatti",
+      "Gianni Profeta"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19682v1",
+    "file_name": "2506.19682v1.The_electronic_structure_of_a_doped_Mott_Hubbard_surface.pdf"
+  },
+  "2506.19683": {
+    "title": "Semantic Scene Graph for Ultrasound Image Explanation and Scanning   Guidance",
+    "authors": [
+      "Xuesong Li",
+      "Dianye Huang",
+      "Yameng Zhang",
+      "Nassir Navab",
+      "Zhongliang Jiang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19683v2",
+    "file_name": "2506.19683v1.Semantic_Scene_Graph_for_Ultrasound_Image_Explanation_and_Scanning_Guidance.pdf"
+  },
+  "2506.19686": {
+    "title": "From Memories to Maps: Mechanisms of In-Context Reinforcement Learning   in Transformers",
+    "authors": [
+      "Ching Fang",
+      "Kanaka Rajan"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19686v2",
+    "file_name": "2506.19686v1.From_memories_to_maps__Mechanisms_of_in_context_reinforcement_learning_in_transformers.pdf"
+  },
+  "2506.19687": {
+    "title": "ReCoGNet: Recurrent Context-Guided Network for 3D MRI Prostate   Segmentation",
+    "authors": [
+      "Ahmad Mustafa",
+      "Reza Rastegar",
+      "Ghassan AlRegib"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19687v1",
+    "file_name": "2506.19687v1.ReCoGNet__Recurrent_Context_Guided_Network_for_3D_MRI_Prostate_Segmentation.pdf"
+  },
+  "2506.19690": {
+    "title": "Flexoelectric Polarization Enhancement in Paraelectric   $\\mathrm{BaHfO_3}$ via Strain Gradient Engineering",
+    "authors": [
+      "Timo Piecuch",
+      "Jeffrey A. Brock",
+      "Xiaochun Huang",
+      "Arnold M. Müller",
+      "Christof Vockenhuber",
+      "Christof W. Schneider",
+      "Thomas Lippert",
+      "Nick A. Shepelin"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19690v1",
+    "file_name": "2506.19690v1.Flexoelectric_Polarization_Enhancement_in_Paraelectric___mathrm_BaHfO_3___via_Strain_Gradient_Engineering.pdf"
+  },
+  "2506.19691": {
+    "title": "Transverse Polarization Gradient Entangling Gates for Trapped-Ion   Quantum Computation",
+    "authors": [
+      "Jin-Ming Cui",
+      "Yan Chen",
+      "Yi-Fan Zhou",
+      "Quan Long",
+      "En-Teng An",
+      "Ran He",
+      "Yun-Feng Huang",
+      "Chuan-Feng Li",
+      "Guang-Can Guo"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19691v1",
+    "file_name": "2506.19691v1.Transverse_Polarization_Gradient_Entangling_Gates_for_Trapped_Ion_Quantum_Computation.pdf"
+  },
+  "2506.19693": {
+    "title": "ReBoot: Encrypted Training of Deep Neural Networks with CKKS   Bootstrapping",
+    "authors": [
+      "Alberto Pirillo",
+      "Luca Colombo"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19693v1",
+    "file_name": "2506.19693v1.ReBoot__Encrypted_Training_of_Deep_Neural_Networks_with_CKKS_Bootstrapping.pdf"
+  },
+  "2506.19694": {
+    "title": "UltraAD: Fine-Grained Ultrasound Anomaly Classification via Few-Shot   CLIP Adaptation",
+    "authors": [
+      "Yue Zhou",
+      "Yuan Bi",
+      "Wenjuan Tong",
+      "Wei Wang",
+      "Nassir Navab",
+      "Zhongliang Jiang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19694v1",
+    "file_name": "2506.19694v1.UltraAD__Fine_Grained_Ultrasound_Anomaly_Classification_via_Few_Shot_CLIP_Adaptation.pdf"
+  },
+  "2506.19697": {
+    "title": "Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large   Language Models",
+    "authors": [
+      "Jungwoo Park",
+      "Taewhoo Lee",
+      "Chanwoong Yoon",
+      "Hyeon Hwang",
+      "Jaewoo Kang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19697v1",
+    "file_name": "2506.19697v1.Outlier_Safe_Pre_Training_for_Robust_4_Bit_Quantization_of_Large_Language_Models.pdf"
+  },
+  "2506.19698": {
+    "title": "Toward Decision-Oriented Prognostics: An Integrated Estimate-Optimize   Framework for Predictive Maintenance",
+    "authors": [
+      "Zhuojun Xie",
+      "Adam Abdin",
+      "Yiping Fang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19698v1",
+    "file_name": "2506.19698v1.Toward_Decision_Oriented_Prognostics__An_Integrated_Estimate_Optimize_Framework_for_Predictive_Maintenance.pdf"
+  },
+  "2506.19699": {
+    "title": "UniTac-NV: A Unified Tactile Representation For Non-Vision-Based Tactile   Sensors",
+    "authors": [
+      "Jian Hou",
+      "Xin Zhou",
+      "Qihan Yang",
+      "Adam J. Spiers"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19699v1",
+    "file_name": "2506.19699v1.UniTac_NV__A_Unified_Tactile_Representation_For_Non_Vision_Based_Tactile_Sensors.pdf"
+  },
+  "2506.19702": {
+    "title": "LLM-Driven Medical Document Analysis: Enhancing Trustworthy Pathology   and Differential Diagnosis",
+    "authors": [
+      "Lei Kang",
+      "Xuanshuo Fu",
+      "Oriol Ramos Terrades",
+      "Javier Vazquez-Corral",
+      "Ernest Valveny",
+      "Dimosthenis Karatzas"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19702v1",
+    "file_name": "2506.19702v1.LLM_Driven_Medical_Document_Analysis__Enhancing_Trustworthy_Pathology_and_Differential_Diagnosis.pdf"
+  },
+  "2506.19704": {
+    "title": "Collaborative governance of cyber violence: A two-phase, multi-scenario   four-party evolutionary game and SBI1I2R public opinion dissemination",
+    "authors": [
+      "Xiaoting Yang",
+      "Wei Lv",
+      "Ting Yang",
+      "Bart Baesens"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19704v1",
+    "file_name": "2506.19704v1.Collaborative_governance_of_cyber_violence__A_two_phase__multi_scenario_four_party_evolutionary_game_and_SBI1I2R_public_opinion_dissemination.pdf"
+  },
+  "2506.19706": {
+    "title": "Orbital FFLO and layer-selective FFLO phases in trilayer NbSe$_2$",
+    "authors": [
+      "Michiya Chazono",
+      "Youichi Yanase"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19706v2",
+    "file_name": "2506.19706v1.Orbital_FFLO_and_layer_selective_FFLO_phases_in_trilayer_NbSe__2_.pdf"
+  },
+  "2506.19708": {
+    "title": "Uncovering Conceptual Blindspots in Generative Image Models Using Sparse   Autoencoders",
+    "authors": [
+      "Matyas Bohacek",
+      "Thomas Fel",
+      "Maneesh Agrawala",
+      "Ekdeep Singh Lubana"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19708v1",
+    "file_name": "2506.19708v1.Uncovering_Conceptual_Blindspots_in_Generative_Image_Models_Using_Sparse_Autoencoders.pdf"
+  },
+  "2506.19709": {
+    "title": "Continuous spin superparticle model",
+    "authors": [
+      "I. L. Buchbinder",
+      "S. A. Fedoruk"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19709v2",
+    "file_name": "2506.19709v1.Continuous_spin_superparticle_model.pdf"
+  },
+  "2506.19711": {
+    "title": "SIP-IFVM: An observation-based magnetohydrodynamic model of coronal mass   ejection",
+    "authors": [
+      "Haopeng Wang",
+      "Jinhan Guo",
+      "Stefaan Poedts",
+      "Andrea Lani",
+      "Luis Linan",
+      "Tinatin Baratashvili",
+      "Liping Yang",
+      "Hyun-Jin Jeong",
+      "Wenwen Wei",
+      "Caixia Li",
+      "Yun Yang",
+      "Yucong Li",
+      "Hao Wu",
+      "Yang Guo",
+      "Brigitte Schmieder"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19711v1",
+    "file_name": "2506.19711v1.SIP_IFVM__An_observation_based_magnetohydrodynamic_model_of_coronal_mass_ejection.pdf"
+  },
+  "2506.19712": {
+    "title": "Estimating Spatially-Dependent GPS Errors Using a Swarm of Robots",
+    "authors": [
+      "Praneeth Somisetty",
+      "Robert Griffin",
+      "Victor M. Baez",
+      "Miguel F. Arevalo-Castiblanco",
+      "Aaron T. Becker",
+      "Jason M. O'Kane"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19712v2",
+    "file_name": "2506.19712v1.Estimating_Spatially_Dependent_GPS_Errors_Using_a_Swarm_of_Robots.pdf"
+  },
+  "2506.19713": {
+    "title": "Guidance in the Frequency Domain Enables High-Fidelity Sampling at Low   CFG Scales",
+    "authors": [
+      "Seyedmorteza Sadat",
+      "Tobias Vontobel",
+      "Farnood Salehi",
+      "Romann M. Weber"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19713v1",
+    "file_name": "2506.19713v1.Guidance_in_the_Frequency_Domain_Enables_High_Fidelity_Sampling_at_Low_CFG_Scales.pdf"
+  },
+  "2506.19714": {
+    "title": "Conservative quantum offline model-based optimization",
+    "authors": [
+      "Kristian Sotirov",
+      "Annie E. Paine",
+      "Savvas Varsamopoulos",
+      "Antonio A. Gentile",
+      "Osvaldo Simeone"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19714v1",
+    "file_name": "2506.19714v1.Conservative_quantum_offline_model_based_optimization.pdf"
+  },
+  "2506.19716": {
+    "title": "Cluster Spin Glass State in Ba$_3$Sb$_{1+x}$Co$_{2-x}$O$_{9-δ}$:   Cation Disorder and Mixed-Valence Co Dimers",
+    "authors": [
+      "Anzar Ali",
+      "Guratinder Kaur",
+      "Lukas Keller",
+      "Masahiko Isobe"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19716v1",
+    "file_name": "2506.19716v1.Cluster_Spin_Glass_State_in_Ba__3_Sb___1_x__Co___2_x__O___9_δ____Cation_Disorder_and_Mixed_Valence_Co_Dimers.pdf"
+  },
+  "2506.19717": {
+    "title": "Decision-Focused Learning for Neural Network-Constrained Optimization:   Application to HVAC Management System",
+    "authors": [
+      "Pietro Favaro",
+      "Jean-François Toubeau",
+      "François Vallée",
+      "Yury Dvorkin"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19717v1",
+    "file_name": "2506.19717v1.Decision_Focused_Learning_for_Neural_Network_Constrained_Optimization__Application_to_HVAC_Management_System.pdf"
+  },
+  "2506.19718": {
+    "title": "XMM-Newton follow-up of a sample of apparent low surface brightness   galaxy groups detected in the ROSAT All-Sky Survey",
+    "authors": [
+      "Claudia Spinelli",
+      "Angie Veronica",
+      "Florian Pacaud",
+      "Thomas H. Reiprich",
+      "Konstantinos Migkas",
+      "Weiwei Xu",
+      "Miriam E. Ramos-Ceja"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19718v1",
+    "file_name": "2506.19718v1.XMM_Newton_follow_up_of_a_sample_of_apparent_low_surface_brightness_galaxy_groups_detected_in_the_ROSAT_All_Sky_Survey.pdf"
+  },
+  "2506.19721": {
+    "title": "MUSE-DARK-I: Dark matter halo properties of intermediate-z star-forming   galaxies",
+    "authors": [
+      "B. I. Ciocan",
+      "N. F. Bouché",
+      "J. Fensch",
+      "W. Mercier",
+      "D. Krajnović",
+      "J. Richard",
+      "T. Contini",
+      "A. Jeanneau"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19721v1",
+    "file_name": "2506.19721v1.MUSE_DARK_I__Dark_matter_halo_properties_of_intermediate_z_star_forming_galaxies.pdf"
+  },
+  "2506.19722": {
+    "title": "Integrated Balanced and Staggered Routing in Autonomous   Mobility-on-Demand Systems",
+    "authors": [
+      "Antonio Coppola",
+      "Gerhard Hiermann",
+      "Dario Paccagnan",
+      "Michel Gendreau",
+      "Maximilian Schiffer"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19722v1",
+    "file_name": "2506.19722v1.Integrated_Balanced_and_Staggered_Routing_in_Autonomous_Mobility_on_Demand_Systems.pdf"
+  },
+  "2506.19724": {
+    "title": "From Reproduction to Replication: Evaluating Research Agents with   Progressive Code Masking",
+    "authors": [
+      "Gyeongwon James Kim",
+      "Alex Wilf",
+      "Louis-Philippe Morency",
+      "Daniel Fried"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19724v1",
+    "file_name": "2506.19724v1.From_Reproduction_to_Replication__Evaluating_Research_Agents_with_Progressive_Code_Masking.pdf"
+  },
+  "2506.19726": {
+    "title": "Geometric-Aware Variational Inference: Robust and Adaptive   Regularization with Directional Weight Uncertainty",
+    "authors": [
+      "Carlos Stein Brito"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19726v1",
+    "file_name": "2506.19726v1.Geometric_Aware_Variational_Inference__Robust_and_Adaptive_Regularization_with_Directional_Weight_Uncertainty.pdf"
+  },
+  "2506.19727": {
+    "title": "Moiré Collapse and Luttinger Liquids In Twisted Anisotropic   Homobilayers",
+    "authors": [
+      "D. J. P. de Sousa",
+      "Seungjun Lee",
+      "Francisco Guinea",
+      "Tony Low"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19727v1",
+    "file_name": "2506.19727v1.Moiré_Collapse_and_Luttinger_Liquids_In_Twisted_Anisotropic_Homobilayers.pdf"
+  },
+  "2506.19728": {
+    "title": "Loose threads: parsec-scale filamentation in the high Galactic latitude   molecular clouds MBM 3 and MBM 16",
+    "authors": [
+      "Marco Monaci",
+      "Loris Magnani",
+      "Steven N. Shore"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19728v1",
+    "file_name": "2506.19728v1.Loose_threads__parsec_scale_filamentation_in_the_high_Galactic_latitude_molecular_clouds_MBM_3_and_MBM_16.pdf"
+  },
+  "2506.19729": {
+    "title": "Nonlocal correlations for semiclassical states in loop quantum gravity",
+    "authors": [
+      "Filipe H. C. Menezes",
+      "Nelson Yokomizo"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19729v1",
+    "file_name": "2506.19729v1.Nonlocal_correlations_for_semiclassical_states_in_loop_quantum_gravity.pdf"
+  },
+  "2506.19732": {
+    "title": "Who Does What in Deep Learning? Multidimensional Game-Theoretic   Attribution of Function of Neural Units",
+    "authors": [
+      "Shrey Dixit",
+      "Kayson Fakhar",
+      "Fatemeh Hadaeghi",
+      "Patrick Mineault",
+      "Konrad P. Kording",
+      "Claus C. Hilgetag"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19732v1",
+    "file_name": "2506.19732v1.Who_Does_What_in_Deep_Learning__Multidimensional_Game_Theoretic_Attribution_of_Function_of_Neural_Units.pdf"
+  },
+  "2506.19733": {
+    "title": "Breaking Barriers: Do Reinforcement Post Training Gains Transfer To   Unseen Domains?",
+    "authors": [
+      "Chuxuan Hu",
+      "Yuxuan Zhu",
+      "Antony Kellermann",
+      "Caleb Biddulph",
+      "Suppakit Waiwitlikhit",
+      "Jason Benn",
+      "Daniel Kang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19733v1",
+    "file_name": "2506.19733v1.Breaking_Barriers__Do_Reinforcement_Post_Training_Gains_Transfer_To_Unseen_Domains_.pdf"
+  },
+  "2506.19734": {
+    "title": "DRIFT: Data Reduction via Informative Feature Transformation-   Generalization Begins Before Deep Learning starts",
+    "authors": [
+      "Ben Keslaki"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19734v1",
+    "file_name": "2506.19734v1.DRIFT__Data_Reduction_via_Informative_Feature_Transformation__Generalization_Begins_Before_Deep_Learning_starts.pdf"
+  },
+  "2506.19737": {
+    "title": "Reasoning about Bounded Reasoning",
+    "authors": [
+      "Shuige Liu",
+      "Gabriel Ziegler"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19737v2",
+    "file_name": "2506.19737v1.Reasoning_about_Bounded_Reasoning.pdf"
+  },
+  "2506.19738": {
+    "title": "From Brownian dynamics to Poisson-Nernst-Planck equations:   multi-resolution simulations of ions",
+    "authors": [
+      "Jinyuan Zhang",
+      "Radek Erban"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19738v1",
+    "file_name": "2506.19738v1.From_Brownian_dynamics_to_Poisson_Nernst_Planck_equations__multi_resolution_simulations_of_ions.pdf"
+  },
+  "2506.19741": {
+    "title": "Noise Consistency Training: A Native Approach for One-Step Generator in   Learning Additional Controls",
+    "authors": [
+      "Yihong Luo",
+      "Shuchen Xue",
+      "Tianyang Hu",
+      "Jing Tang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19741v1",
+    "file_name": "2506.19741v1.Noise_Consistency_Training__A_Native_Approach_for_One_Step_Generator_in_Learning_Additional_Controls.pdf"
+  },
+  "2506.19742": {
+    "title": "NeRF-based CBCT Reconstruction needs Normalization and Initialization",
+    "authors": [
+      "Zhuowei Xu",
+      "Han Li",
+      "Dai Sun",
+      "Zhicheng Li",
+      "Yujia Li",
+      "Qingpeng Kong",
+      "Zhiwei Cheng",
+      "Nassir Navab",
+      "S. Kevin Zhou"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19742v1",
+    "file_name": "2506.19742v1.NeRF_based_CBCT_Reconstruction_needs_Normalization_and_Initialization.pdf"
+  },
+  "2506.19743": {
+    "title": "NEAR$^2$: A Nested Embedding Approach to Efficient Product Retrieval and   Ranking",
+    "authors": [
+      "Shenbin Qian",
+      "Diptesh Kanojia",
+      "Samarth Agrawal",
+      "Hadeel Saadany",
+      "Swapnil Bhosale",
+      "Constantin Orasan",
+      "Zhe Wu"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19743v1",
+    "file_name": "2506.19743v1.NEAR__2___A_Nested_Embedding_Approach_to_Efficient_Product_Retrieval_and_Ranking.pdf"
+  },
+  "2506.19744": {
+    "title": "MDR-DeePC: Model-Inspired Distributionally Robust Data-Enabled   Predictive Control",
+    "authors": [
+      "Shihao Li",
+      "Jiachen Li",
+      "Christopher Martin",
+      "Soovadeep Bakshi",
+      "Dongmei Chen"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19744v2",
+    "file_name": "2506.19744v1.MDR_DeePC__Model_Inspired_Distributionally_Robust_Data_Enabled_Predictive_Control.pdf"
+  },
+  "2506.19746": {
+    "title": "Homomorphism Indistinguishability and Game Comonads for Restricted   Conjunction and Requantification",
+    "authors": [
+      "Georg Schindling"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19746v1",
+    "file_name": "2506.19746v1.Homomorphism_Indistinguishability_and_Game_Comonads_for_Restricted_Conjunction_and_Requantification.pdf"
+  },
+  "2506.19747": {
+    "title": "Systematic Comparison of Projection Methods for Monocular 3D Human Pose   Estimation on Fisheye Images",
+    "authors": [
+      "Stephanie Käs",
+      "Sven Peter",
+      "Henrik Thillmann",
+      "Anton Burenko",
+      "David Benjamin Adrian",
+      "Dennis Mack",
+      "Timm Linder",
+      "Bastian Leibe"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19747v1",
+    "file_name": "2506.19747v1.Systematic_Comparison_of_Projection_Methods_for_Monocular_3D_Human_Pose_Estimation_on_Fisheye_Images.pdf"
+  },
+  "2506.19748": {
+    "title": "Copula-Based Modeling of Fractional Inaccuracy: A Unified Framework",
+    "authors": [
+      "Aman Pandey",
+      "Chanchal Kundu"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19748v1",
+    "file_name": "2506.19748v1.Copula_Based_Modeling_of_Fractional_Inaccuracy__A_Unified_Framework.pdf"
+  },
+  "2506.19750": {
+    "title": "Evaluating Rare Disease Diagnostic Performance in Symptom Checkers: A   Synthetic Vignette Simulation Approach",
+    "authors": [
+      "Takashi Nishibayashi",
+      "Seiji Kanazawa",
+      "Kumpei Yamada"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19750v4",
+    "file_name": "2506.19750v1.Evaluating_Rare_Disease_Diagnostic_Performance_in_Symptom_Checkers__A_Synthetic_Vignette_Simulation_Approach.pdf"
+  },
+  "2506.19751": {
+    "title": "A modular and extensible library for parameterized terrain generation",
+    "authors": [
+      "Erik Wallin"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19751v1",
+    "file_name": "2506.19751v1.A_modular_and_extensible_library_for_parameterized_terrain_generation.pdf"
+  },
+  "2506.19753": {
+    "title": "Arabic Dialect Classification using RNNs, Transformers, and Large   Language Models: A Comparative Analysis",
+    "authors": [
+      "Omar A. Essameldin",
+      "Ali O. Elbeih",
+      "Wael H. Gomaa",
+      "Wael F. Elsersy"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19753v2",
+    "file_name": "2506.19753v1.Arabic_Dialect_Classification_using_RNNs__Transformers__and_Large_Language_Models__A_Comparative_Analysis.pdf"
+  },
+  "2506.19754": {
+    "title": "Multiband analysis of the O'Connell effect in 14 eclipsing binaries",
+    "authors": [
+      "D. Flores Cabrera",
+      "M. Catelan",
+      "A. Papageorgiou",
+      "A. Clocchiatti"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19754v1",
+    "file_name": "2506.19754v1.Multiband_analysis_of_the_O_Connell_effect_in_14_eclipsing_binaries.pdf"
+  },
+  "2506.19755": {
+    "title": "Cross-regularization: Adaptive Model Complexity through Validation   Gradients",
+    "authors": [
+      "Carlos Stein Brito"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19755v1",
+    "file_name": "2506.19755v1.Cross_regularization__Adaptive_Model_Complexity_through_Validation_Gradients.pdf"
+  },
+  "2506.19756": {
+    "title": "Algorithmic hardness of the partition function for nucleic acid strands",
+    "authors": [
+      "Gwendal Ducloz",
+      "Ahmed Shalaby",
+      "Damien Woods"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19756v1",
+    "file_name": "2506.19756v1.Algorithmic_hardness_of_the_partition_function_for_nucleic_acid_strands.pdf"
+  },
+  "2506.19761": {
+    "title": "Accurate, fast, cheap: Choose three. Replacing Multi-Head-Attention with   Bidirectional Recurrent Attention for Long-Form ASR",
+    "authors": [
+      "Martin Ratajczak",
+      "Jean-Philippe Robichaud",
+      "Jennifer Drexler Fox"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19761v1",
+    "file_name": "2506.19761v1.Accurate__fast__cheap__Choose_three__Replacing_Multi_Head_Attention_with_Bidirectional_Recurrent_Attention_for_Long_Form_ASR.pdf"
+  },
+  "2506.19762": {
+    "title": "Fast readout of quantum dot spin qubits via Andreev spins",
+    "authors": [
+      "Michèle Jakob",
+      "Katharina Laubscher",
+      "Patrick Del Vecchio",
+      "Anasua Chatterjee",
+      "Valla Fatemi",
+      "Stefano Bosco"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19762v1",
+    "file_name": "2506.19762v1.Fast_readout_of_quantum_dot_spin_qubits_via_Andreev_spins.pdf"
+  },
+  "2506.19763": {
+    "title": "Optimization Studies of Radiation Shielding for the PIP-II Project at   Fermilab",
+    "authors": [
+      "Alajos Makovec",
+      "Dali Georgobiani",
+      "Igor Rakhno",
+      "Igor Tropin"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19763v2",
+    "file_name": "2506.19763v1.Optimization_Studies_of_Radiation_Shielding_for_the_PIP_II_Project_at_Fermilab.pdf"
+  },
+  "2506.19766": {
+    "title": "Efficient calculation of thermodynamic properties of baryon-rich QCD   matter from heavy-ion transport models",
+    "authors": [
+      "Lipei Du"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19766v1",
+    "file_name": "2506.19766v1.Efficient_calculation_of_thermodynamic_properties_of_baryon_rich_QCD_matter_from_heavy_ion_transport_models.pdf"
+  },
+  "2506.19767": {
+    "title": "SRFT: A Single-Stage Method with Supervised and Reinforcement   Fine-Tuning for Reasoning",
+    "authors": [
+      "Yuqian Fu",
+      "Tinghong Chen",
+      "Jiajun Chai",
+      "Xihuai Wang",
+      "Songjun Tu",
+      "Guojun Yin",
+      "Wei Lin",
+      "Qichao Zhang",
+      "Yuanheng Zhu",
+      "Dongbin Zhao"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19767v1",
+    "file_name": "2506.19767v1.SRFT__A_Single_Stage_Method_with_Supervised_and_Reinforcement_Fine_Tuning_for_Reasoning.pdf"
+  },
+  "2506.19770": {
+    "title": "Comparing QCD+QED via full simulation versus the RM123 method: U-spin   window contribution to $a_μ^{\\mathrm{HVP}}$",
+    "authors": [
+      "A. Altherr",
+      "I. Campos",
+      "A. Cotellucci",
+      "R. Gruber",
+      "T. Harris",
+      "J. Komijani",
+      "F. Margari",
+      "M. K. Marinkovic",
+      "L. Parato",
+      "A. Patella",
+      "S. Rosso",
+      "N. Tantalo",
+      "P. Tavella"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19770v1",
+    "file_name": "2506.19770v1.Comparing_QCD_QED_via_full_simulation_versus_the_RM123_method__U_spin_window_contribution_to__a_μ___mathrm_HVP___.pdf"
+  },
+  "2506.19771": {
+    "title": "Interplay between Symmetry Breaking and Interactions in a Symmetry   Protected Topological Phase",
+    "authors": [
+      "Parameshwar R. Pasnoori",
+      "Patrick Azaria"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19771v1",
+    "file_name": "2506.19771v1.Interplay_between_Symmetry_Breaking_and_Interactions_in_a_Symmetry_Protected_Topological_Phase.pdf"
+  },
+  "2506.19773": {
+    "title": "Automatic Prompt Optimization for Knowledge Graph Construction: Insights   from an Empirical Study",
+    "authors": [
+      "Nandana Mihindukulasooriya",
+      "Niharika S. D'Souza",
+      "Faisal Chowdhury",
+      "Horst Samulowitz"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19773v1",
+    "file_name": "2506.19773v1.Automatic_Prompt_Optimization_for_Knowledge_Graph_Construction__Insights_from_an_Empirical_Study.pdf"
+  },
+  "2506.19774": {
+    "title": "Kling-Foley: Multimodal Diffusion Transformer for High-Quality   Video-to-Audio Generation",
+    "authors": [
+      "Jun Wang",
+      "Xijuan Zeng",
+      "Chunyu Qiang",
+      "Ruilong Chen",
+      "Shiyao Wang",
+      "Le Wang",
+      "Wangjing Zhou",
+      "Pengfei Cai",
+      "Jiahui Zhao",
+      "Nan Li",
+      "Zihan Li",
+      "Yuzhe Liang",
+      "Xiaopeng Wang",
+      "Haorui Zheng",
+      "Ming Wen",
+      "Kang Yin",
+      "Yiran Wang",
+      "Nan Li",
+      "Feng Deng",
+      "Liang Dong",
+      "Chen Zhang",
+      "Di Zhang",
+      "Kun Gai"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19774v1",
+    "file_name": "2506.19774v1.Kling_Foley__Multimodal_Diffusion_Transformer_for_High_Quality_Video_to_Audio_Generation.pdf"
+  },
+  "2506.19777": {
+    "title": "Alleviating User-Sensitive bias with Fair Generative Sequential   Recommendation Model",
+    "authors": [
+      "Yang Liu",
+      "Feng Wu",
+      "Xuefang Zhu"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19777v1",
+    "file_name": "2506.19777v1.Alleviating_User_Sensitive_bias_with_Fair_Generative_Sequential_Recommendation_Model.pdf"
+  },
+  "2506.19779": {
+    "title": "Role of non-thermal processes in the quiescent and active millimeter   spectrum of a young M-dwarf",
+    "authors": [
+      "Atul Mohan",
+      "Peter H. Hauschildt",
+      "Birgit Fuhrmeister",
+      "Surajit Mondal",
+      "Vladimir Airapetian",
+      "Sven Wedemeyer"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19779v2",
+    "file_name": "2506.19779v1.Role_of_non_thermal_processes_in_the_quiescent_and_active_millimeter_spectrum_of_a_young_M_dwarf.pdf"
+  },
+  "2506.19780": {
+    "title": "Multi-Preference Lambda-weighted Listwise DPO for Dynamic Preference   Alignment",
+    "authors": [
+      "Yuhui Sun",
+      "Xiyao Wang",
+      "Zixi Li",
+      "Jinman Zhao"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19780v3",
+    "file_name": "2506.19780v1.Multi_Preference_Lambda_weighted_Listwise_DPO_for_Dynamic_Preference_Alignment.pdf"
+  },
+  "2506.19783": {
+    "title": "SAGE: Strategy-Adaptive Generation Engine for Query Rewriting",
+    "authors": [
+      "Teng Wang",
+      "Hailei Gong",
+      "Changwang Zhang",
+      "Jun Wang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19783v1",
+    "file_name": "2506.19783v1.SAGE__Strategy_Adaptive_Generation_Engine_for_Query_Rewriting.pdf"
+  },
+  "2506.19784": {
+    "title": "Singular limits of anisotropic weak solutions to compressible   magnetohydrodynamics",
+    "authors": [
+      "Nicolas Besse",
+      "Christophe Cheverry"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19784v2",
+    "file_name": "2506.19784v1.Singular_limits_of_anisotropic_weak_solutions_to_compressible_magnetohydrodynamics.pdf"
+  },
+  "2506.19788": {
+    "title": "Line ratio identification of external photoevaporation",
+    "authors": [
+      "Tyger Peake",
+      "Thomas J. Haworth",
+      "Mari-Liis Aru",
+      "William J. Henney"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19788v1",
+    "file_name": "2506.19788v1.Line_ratio_identification_of_external_photoevaporation.pdf"
+  },
+  "2506.19789": {
+    "title": "A comparative analysis of machine learning algorithms for predicting   probabilities of default",
+    "authors": [
+      "Adrian Iulian Cristescu",
+      "Matteo Giordano"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19789v1",
+    "file_name": "2506.19789v1.A_comparative_analysis_of_machine_learning_algorithms_for_predicting_probabilities_of_default.pdf"
+  },
+  "2506.19794": {
+    "title": "Why Do Open-Source LLMs Struggle with Data Analysis? A Systematic   Empirical Study",
+    "authors": [
+      "Yuqi Zhu",
+      "Yi Zhong",
+      "Jintian Zhang",
+      "Ziheng Zhang",
+      "Shuofei Qiao",
+      "Yujie Luo",
+      "Lun Du",
+      "Da Zheng",
+      "Huajun Chen",
+      "Ningyu Zhang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19794v2",
+    "file_name": "2506.19794v1.Why_Do_Open_Source_LLMs_Struggle_with_Data_Analysis__A_Systematic_Empirical_Study.pdf"
+  },
+  "2506.19795": {
+    "title": "Pattern formation and film rupture in a two-dimensional thermocapillary   thin-film model of the Bénard-Marangoni problem",
+    "authors": [
+      "Stefano Böhmer",
+      "Bastian Hilder",
+      "Jonas Jansen"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19795v1",
+    "file_name": "2506.19795v1.Pattern_formation_and_film_rupture_in_a_two_dimensional_thermocapillary_thin_film_model_of_the_Bénard_Marangoni_problem.pdf"
+  },
+  "2506.19797": {
+    "title": "Systematic Review of Pituitary Gland and Pituitary Adenoma Automatic   Segmentation Techniques in Magnetic Resonance Imaging",
+    "authors": [
+      "Mubaraq Yakubu",
+      "Navodini Wijethilake",
+      "Jonathan Shapey",
+      "Andrew King",
+      "Alexander Hammers"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19797v1",
+    "file_name": "2506.19797v1.Systematic_Review_of_Pituitary_Gland_and_Pituitary_Adenoma_Automatic_Segmentation_Techniques_in_Magnetic_Resonance_Imaging.pdf"
+  },
+  "2506.19798": {
+    "title": "CoCo4D: Comprehensive and Complex 4D Scene Generation",
+    "authors": [
+      "Junwei Zhou",
+      "Xueting Li",
+      "Lu Qi",
+      "Ming-Hsuan Yang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19798v1",
+    "file_name": "2506.19798v1.CoCo4D__Comprehensive_and_Complex_4D_Scene_Generation.pdf"
+  },
+  "2506.19800": {
+    "title": "Modeling the influences of non-local connectomic projections on   geometrically constrained cortical dynamics",
+    "authors": [
+      "Rishikesan Maran",
+      "Eli J. Müller",
+      "Ben D. Fulcher"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19800v1",
+    "file_name": "2506.19800v1.Modeling_the_influences_of_non_local_connectomic_projections_on_geometrically_constrained_cortical_dynamics.pdf"
+  },
+  "2506.19802": {
+    "title": "KnowML: Improving Generalization of ML-NIDS with Attack Knowledge Graphs",
+    "authors": [
+      "Xin Fan Guo",
+      "Albert Merono Penuela",
+      "Sergio Maffeis",
+      "Fabio Pierazzi"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19802v1",
+    "file_name": "2506.19802v1.KnowML__Improving_Generalization_of_ML_NIDS_with_Attack_Knowledge_Graphs.pdf"
+  },
+  "2506.19803": {
+    "title": "Quantifying Spin Defect Density in hBN via Raman and Photoluminescence   Analysis",
+    "authors": [
+      "Atanu Patra",
+      "Paul Konrad",
+      "Andreas Sperlich",
+      "Timur Biktagirov",
+      "Wolf Gero Schmidt",
+      "Lesley Spencer",
+      "Igor Aharonovich",
+      "Sven Höfling",
+      "Vladimir Dyakonov"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19803v1",
+    "file_name": "2506.19803v1.Quantifying_Spin_Defect_Density_in_hBN_via_Raman_and_Photoluminescence_Analysis.pdf"
+  },
+  "2506.19804": {
+    "title": "Chimera baryons and mesons on the lattice: a spectral density analysis",
+    "authors": [
+      "Ed Bennett",
+      "Luigi Del Debbio",
+      "Niccolò Forzano",
+      "Ryan Hill",
+      "Deog Ki Hong",
+      "Ho Hsiao",
+      "Jong-Wan Lee",
+      "C. -J. David Lin",
+      "Biagio Lucini",
+      "Alessandro Lupo",
+      "Maurizio Piai",
+      "Davide Vadacchino",
+      "Fabian Zierler"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19804v1",
+    "file_name": "2506.19804v1.Chimera_baryons_and_mesons_on_the_lattice__a_spectral_density_analysis.pdf"
+  },
+  "2506.19805": {
+    "title": "Convolution-weighting method for the physics-informed neural network: A   Primal-Dual Optimization Perspective",
+    "authors": [
+      "Chenhao Si",
+      "Ming Yan"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19805v1",
+    "file_name": "2506.19805v1.Convolution_weighting_method_for_the_physics_informed_neural_network__A_Primal_Dual_Optimization_Perspective.pdf"
+  },
+  "2506.19806": {
+    "title": "LLM-Based Social Simulations Require a Boundary",
+    "authors": [
+      "Zengqing Wu",
+      "Run Peng",
+      "Takayuki Ito",
+      "Chuan Xiao"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19806v1",
+    "file_name": "2506.19806v1.LLM_Based_Social_Simulations_Require_a_Boundary.pdf"
+  },
+  "2506.19807": {
+    "title": "KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality",
+    "authors": [
+      "Baochang Ren",
+      "Shuofei Qiao",
+      "Wenhao Yu",
+      "Huajun Chen",
+      "Ningyu Zhang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19807v2",
+    "file_name": "2506.19807v1.KnowRL__Exploring_Knowledgeable_Reinforcement_Learning_for_Factuality.pdf"
+  },
+  "2506.19813": {
+    "title": "Curating art exhibitions using machine learning",
+    "authors": [
+      "Eurico Covas"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19813v1",
+    "file_name": "2506.19813v1.Curating_art_exhibitions_using_machine_learning.pdf"
+  },
+  "2506.19815": {
+    "title": "ReactEMG: Zero-Shot, Low-Latency Intent Detection via sEMG",
+    "authors": [
+      "Runsheng Wang",
+      "Xinyue Zhu",
+      "Ava Chen",
+      "Jingxi Xu",
+      "Lauren Winterbottom",
+      "Dawn M. Nilsen",
+      "Joel Stein",
+      "Matei Ciocarlie"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19815v3",
+    "file_name": "2506.19815v1.ReactEMG__Zero_Shot__Low_Latency_Intent_Detection_via_sEMG.pdf"
+  },
+  "2506.19816": {
+    "title": "CronusVLA: Transferring Latent Motion Across Time for Multi-Frame   Prediction in Manipulation",
+    "authors": [
+      "Hao Li",
+      "Shuai Yang",
+      "Yilun Chen",
+      "Yang Tian",
+      "Xiaoda Yang",
+      "Xinyi Chen",
+      "Hanqing Wang",
+      "Tai Wang",
+      "Feng Zhao",
+      "Dahua Lin",
+      "Jiangmiao Pang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19816v1",
+    "file_name": "2506.19816v1.CronusVLA__Transferring_Latent_Motion_Across_Time_for_Multi_Frame_Prediction_in_Manipulation.pdf"
+  },
+  "2506.19817": {
+    "title": "Open-closed 3d gravity as a random ensemble",
+    "authors": [
+      "Daniel L. Jafferis",
+      "Liza Rozenberg",
+      "Diandian Wang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19817v1",
+    "file_name": "2506.19817v1.Open_closed_3d_gravity_as_a_random_ensemble.pdf"
+  },
+  "2506.19818": {
+    "title": "LQG inspired spacetimes as solutions of the Einstein equations",
+    "authors": [
+      "Marcos V. de S. Silva",
+      "Carlos F. S. Pereira",
+      "G. Alencar",
+      "Celio R. Muniz"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19818v1",
+    "file_name": "2506.19818v1.LQG_inspired_spacetimes_as_solutions_of_the_Einstein_equations.pdf"
+  },
+  "2506.19820": {
+    "title": "ProxelGen: Generating Proteins as 3D Densities",
+    "authors": [
+      "Felix Faltings",
+      "Hannes Stark",
+      "Regina Barzilay",
+      "Tommi Jaakkola"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19820v1",
+    "file_name": "2506.19820v1.ProxelGen__Generating_Proteins_as_3D_Densities.pdf"
+  },
+  "2506.19821": {
+    "title": "Exact Matrix Seriation through Mathematical Optimization: Stress and   Effectiveness-Based Models",
+    "authors": [
+      "Víctor Blanco",
+      "Alfredo Marín",
+      "Justo Puerto"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19821v1",
+    "file_name": "2506.19821v1.Exact_Matrix_Seriation_through_Mathematical_Optimization__Stress_and_Effectiveness_Based_Models.pdf"
+  },
+  "2506.19822": {
+    "title": "Non-holomorphic modular flavor symmetry and odd weight polyharmonic   Maaß form",
+    "authors": [
+      "Bu-Yao Qu",
+      "Jun-Nan Lu",
+      "Gui-Jun Ding"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19822v1",
+    "file_name": "2506.19822v1.Non_holomorphic_modular_flavor_symmetry_and_odd_weight_polyharmonic_Maaß_form.pdf"
+  },
+  "2506.19823": {
+    "title": "Persona Features Control Emergent Misalignment",
+    "authors": [
+      "Miles Wang",
+      "Tom Dupré la Tour",
+      "Olivia Watkins",
+      "Alex Makelov",
+      "Ryan A. Chi",
+      "Samuel Miserendino",
+      "Johannes Heidecke",
+      "Tejal Patwardhan",
+      "Dan Mossing"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19823v1",
+    "file_name": "2506.19823v1.Persona_Features_Control_Emergent_Misalignment.pdf"
+  },
+  "2506.19825": {
+    "title": "Evaluating Compliance with Visualization Guidelines in Diagrams for   Scientific Publications Using Large Vision Language Models",
+    "authors": [
+      "Johannes Rückert",
+      "Louise Bloch",
+      "Christoph M. Friedrich"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19825v1",
+    "file_name": "2506.19825v1.Evaluating_Compliance_with_Visualization_Guidelines_in_Diagrams_for_Scientific_Publications_Using_Large_Vision_Language_Models.pdf"
+  },
+  "2506.19826": {
+    "title": "Evolution of Cluster Alignments as Evidence of Large-scale Structure   Formation in the Universe",
+    "authors": [
+      "Michael J. West",
+      "Roberto De Propris",
+      "Maret Einasto",
+      "Z. L. Wen",
+      "J. L. Han"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19826v1",
+    "file_name": "2506.19826v1.Evolution_of_Cluster_Alignments_as_Evidence_of_Large_scale_Structure_Formation_in_the_Universe.pdf"
+  },
+  "2506.19830": {
+    "title": "Scaling Speculative Decoding with Lookahead Reasoning",
+    "authors": [
+      "Yichao Fu",
+      "Rui Ge",
+      "Zelei Shao",
+      "Zhijie Deng",
+      "Hao Zhang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19830v1",
+    "file_name": "2506.19830v1.Scaling_Speculative_Decoding_with_Lookahead_Reasoning.pdf"
+  },
+  "2506.19831": {
+    "title": "How Effectively Can BERT Models Interpret Context and Detect Bengali   Communal Violent Text?",
+    "authors": [
+      "Abdullah Khondoker",
+      "Enam Ahmed Taufik",
+      "Md. Iftekhar Islam Tashik",
+      "S M Ishtiak Mahmud",
+      "Farig Sadeque"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19831v1",
+    "file_name": "2506.19831v1.How_Effectively_Can_BERT_Models_Interpret_Context_and_Detect_Bengali_Communal_Violent_Text_.pdf"
+  },
+  "2506.19833": {
+    "title": "Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic   3D-mask-based Embedding Router",
+    "authors": [
+      "Yubo Huang",
+      "Weiqiang Wang",
+      "Sirui Zhao",
+      "Tong Xu",
+      "Lin Liu",
+      "Enhong Chen"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19833v1",
+    "file_name": "2506.19833v1.Bind_Your_Avatar__Multi_Talking_Character_Video_Generation_with_Dynamic_3D_mask_based_Embedding_Router.pdf"
+  },
+  "2506.19834": {
+    "title": "A standard transformer and attention with linear biases for molecular   conformer generation",
+    "authors": [
+      "Viatcheslav Gurev",
+      "Timothy Rumbell"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19834v1",
+    "file_name": "2506.19834v1.A_standard_transformer_and_attention_with_linear_biases_for_molecular_conformer_generation.pdf"
+  },
+  "2506.19835": {
+    "title": "MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via   Role-Specialized Collaboration",
+    "authors": [
+      "Yucheng Zhou",
+      "Lingran Song",
+      "Jianbing Shen"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19835v1",
+    "file_name": "2506.19835v1.MAM__Modular_Multi_Agent_Framework_for_Multi_Modal_Medical_Diagnosis_via_Role_Specialized_Collaboration.pdf"
+  },
+  "2506.19836": {
+    "title": "Machine Learning with Privacy for Protected Attributes",
+    "authors": [
+      "Saeed Mahloujifar",
+      "Chuan Guo",
+      "G. Edward Suh",
+      "Kamalika Chaudhuri"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19836v1",
+    "file_name": "2506.19836v1.Machine_Learning_with_Privacy_for_Protected_Attributes.pdf"
+  },
+  "2506.19837": {
+    "title": "Convergence of Mean Shift Algorithms for Large Bandwidths and   Simultaneous Accurate Clustering",
+    "authors": [
+      "Susovan Pal",
+      "Praneeth Vepakomma"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19837v1",
+    "file_name": "2506.19837v1.Convergence_of_Mean_Shift_Algorithms_for_Large_Bandwidths_and_Simultaneous_Accurate_Clustering.pdf"
+  },
+  "2506.19838": {
+    "title": "SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution",
+    "authors": [
+      "Liangbin Xie",
+      "Yu Li",
+      "Shian Du",
+      "Menghan Xia",
+      "Xintao Wang",
+      "Fanghua Yu",
+      "Ziyan Chen",
+      "Pengfei Wan",
+      "Jiantao Zhou",
+      "Chao Dong"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19838v1",
+    "file_name": "2506.19838v1.SimpleGVR__A_Simple_Baseline_for_Latent_Cascaded_Video_Super_Resolution.pdf"
+  },
+  "2506.19839": {
+    "title": "Improving Progressive Generation with Decomposable Flow Matching",
+    "authors": [
+      "Moayed Haji-Ali",
+      "Willi Menapace",
+      "Ivan Skorokhodov",
+      "Arpit Sahni",
+      "Sergey Tulyakov",
+      "Vicente Ordonez",
+      "Aliaksandr Siarohin"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19839v1",
+    "file_name": "2506.19839v1.Improving_Progressive_Generation_with_Decomposable_Flow_Matching.pdf"
+  },
+  "2506.19840": {
+    "title": "GenHSI: Controllable Generation of Human-Scene Interaction Videos",
+    "authors": [
+      "Zekun Li",
+      "Rui Zhou",
+      "Rahul Sajnani",
+      "Xiaoyan Cong",
+      "Daniel Ritchie",
+      "Srinath Sridhar"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19840v1",
+    "file_name": "2506.19840v1.GenHSI__Controllable_Generation_of_Human_Scene_Interaction_Videos.pdf"
+  },
+  "2506.19842": {
+    "title": "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical   Gaussian World Model",
+    "authors": [
+      "Tengbo Yu",
+      "Guanxing Lu",
+      "Zaijia Yang",
+      "Haoyuan Deng",
+      "Season Si Chen",
+      "Jiwen Lu",
+      "Wenbo Ding",
+      "Guoqiang Hu",
+      "Yansong Tang",
+      "Ziwei Wang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19842v1",
+    "file_name": "2506.19842v1.ManiGaussian____General_Robotic_Bimanual_Manipulation_with_Hierarchical_Gaussian_World_Model.pdf"
+  },
+  "2506.19843": {
+    "title": "Temporal-IRL: Modeling Port Congestion and Berth Scheduling with Inverse   Reinforcement Learning",
+    "authors": [
+      "Guo Li",
+      "Zixiang Xu",
+      "Wei Zhang",
+      "Yikuan Hu",
+      "Xinyu Yang",
+      "Nikolay Aristov",
+      "Mingjie Tang",
+      "Elenna R Dugundji"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19843v1",
+    "file_name": "2506.19843v1.Temporal_IRL__Modeling_Port_Congestion_and_Berth_Scheduling_with_Inverse_Reinforcement_Learning.pdf"
+  },
+  "2506.19844": {
+    "title": "Active View Selector: Fast and Accurate Active View Selection with Cross   Reference Image Quality Assessment",
+    "authors": [
+      "Zirui Wang",
+      "Yash Bhalgat",
+      "Ruining Li",
+      "Victor Adrian Prisacariu"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19844v1",
+    "file_name": "2506.19844v1.Active_View_Selector__Fast_and_Accurate_Active_View_Selection_with_Cross_Reference_Image_Quality_Assessment.pdf"
+  },
+  "2506.19845": {
+    "title": "A Comparative Study of NAFNet Baselines for Image Restoration",
+    "authors": [
+      "Vladislav Esaulov",
+      "M. Moein Esfahani"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19845v1",
+    "file_name": "2506.19845v1.A_Comparative_Study_of_NAFNet_Baselines_for_Image_Restoration.pdf"
+  },
+  "2506.19846": {
+    "title": "JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents   with Reinforcement Learning",
+    "authors": [
+      "Ai Han",
+      "Junxing Hu",
+      "Pu Wei",
+      "Zhiqian Zhang",
+      "Yuhang Guo",
+      "Jiawei Lu",
+      "Zicheng Zhang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19846v1",
+    "file_name": "2506.19846v1.JoyAgents_R1__Joint_Evolution_Dynamics_for_Versatile_Multi_LLM_Agents_with_Reinforcement_Learning.pdf"
+  },
+  "2506.19847": {
+    "title": "Orthogonal Finetuning Made Scalable",
+    "authors": [
+      "Zeju Qiu",
+      "Weiyang Liu",
+      "Adrian Weller",
+      "Bernhard Schölkopf"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19847v1",
+    "file_name": "2506.19847v1.Orthogonal_Finetuning_Made_Scalable.pdf"
+  },
+  "2506.19848": {
+    "title": "ScaleCap: Inference-Time Scalable Image Captioning via Dual-Modality   Debiasing",
+    "authors": [
+      "Long Xing",
+      "Qidong Huang",
+      "Xiaoyi Dong",
+      "Pan Zhang",
+      "Yuhang Zang",
+      "Yuhang Cao",
+      "Jinsong Li",
+      "Shuangrui Ding",
+      "Weiming Zhang",
+      "Nenghai Yu",
+      "Jiaqi Wang",
+      "Feng Wu",
+      "Dahua Lin"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19848v1",
+    "file_name": "2506.19848v1.ScaleCap__Inference_Time_Scalable_Image_Captioning_via_Dual_Modality_Debiasing.pdf"
+  },
+  "2506.19850": {
+    "title": "Unified Vision-Language-Action Model",
+    "authors": [
+      "Yuqi Wang",
+      "Xinghang Li",
+      "Wenxuan Wang",
+      "Junbo Zhang",
+      "Yingyan Li",
+      "Yuntao Chen",
+      "Xinlong Wang",
+      "Zhaoxiang Zhang"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19850v1",
+    "file_name": "2506.19850v1.Unified_Vision_Language_Action_Model.pdf"
+  },
+  "2506.19851": {
+    "title": "AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion   Models",
+    "authors": [
+      "Zehuan Huang",
+      "Haoran Feng",
+      "Yangtian Sun",
+      "Yuanchen Guo",
+      "Yanpei Cao",
+      "Lu Sheng"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19851v1",
+    "file_name": "2506.19851v1.AnimaX__Animating_the_Inanimate_in_3D_with_Joint_Video_Pose_Diffusion_Models.pdf"
+  },
+  "2506.19852": {
+    "title": "Radial Attention: $O(n\\log n)$ Sparse Attention with Energy Decay for   Long Video Generation",
+    "authors": [
+      "Xingyang Li",
+      "Muyang Li",
+      "Tianle Cai",
+      "Haocheng Xi",
+      "Shuo Yang",
+      "Yujun Lin",
+      "Lvmin Zhang",
+      "Songlin Yang",
+      "Jinbo Hu",
+      "Kelly Peng",
+      "Maneesh Agrawala",
+      "Ion Stoica",
+      "Kurt Keutzer",
+      "Song Han"
+    ],
+    "release_date": "2025-06-24",
+    "pdf_url": "http://arxiv.org/pdf/2506.19852v1",
+    "file_name": "2506.19852v1.Radial_Attention___O_n_log_n___Sparse_Attention_with_Energy_Decay_for_Long_Video_Generation.pdf"
+  }
+}
