@@ -5,6 +5,8 @@ import torch
 import faiss
 import numpy as np
 from transformers import AutoTokenizer, AutoModel, AutoModelForCausalLM, pipeline
+from dotenv import load_dotenv
+from google import genai
 
 # -------------------------------
 # CONFIG
@@ -15,6 +17,8 @@ EMBED_MODEL_NAME = "allenai/longformer-base-4096"
 GEN_LLM_MODEL = "EleutherAI/gpt-neo-125M"
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+load_dotenv()
+client = genai.Client()
 
 # -------------------------------
 # INITIALIZATION (runs once)
@@ -49,7 +53,7 @@ def embed_query(text):
     embedding = hidden_states.mean(dim=0).cpu().numpy()
     return embedding.astype("float32").reshape(1, -1)
 
-def retrieve_chunks(query_text, top_k=5):
+def retrieve_chunks(query_text, top_k=10):
     query_embedding = embed_query(query_text)
     distances, indices = index.search(query_embedding, top_k)
     retrieved = []
@@ -71,6 +75,18 @@ def build_prompt(query, retrieved_chunks):
     prompt += f"\nQuestion: {query}\nAnswer:"
     return prompt
 
+# def generate_answer(prompt, max_tokens=200):
+#     output = generator(prompt, max_new_tokens=max_tokens, do_sample=True, temperature=0.7)[0]["generated_text"]
+#     return output.strip()
+
+
+
+
 def generate_answer(prompt, max_tokens=200):
-    output = generator(prompt, max_new_tokens=max_tokens, do_sample=True, temperature=0.7)[0]["generated_text"]
-    return output.strip()
+    
+    client = genai.Client()
+
+    response = client.models.generate_content(
+        model="gemini-2.5-flash", contents=f"{prompt}"
+    )
+    return response.text.strip()
