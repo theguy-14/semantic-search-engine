@@ -1,5 +1,9 @@
 from fastapi import FastAPI
 from scripts.search import run_query
+import os
+
+if not os.path.exists("pdfs"):
+    os.makedirs("pdfs")
 
 app = FastAPI()
 
