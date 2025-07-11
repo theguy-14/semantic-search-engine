@@ -1,24 +1,25 @@
-# retrieval_engine.py
+# scripts/retrieve_db.py
 
 import json
+import os
 import torch
 import faiss
 import numpy as np
+import requests
 from transformers import AutoTokenizer, AutoModel, AutoModelForCausalLM, pipeline
 from dotenv import load_dotenv
-from google import genai
 
 # -------------------------------
 # CONFIG
 # -------------------------------
+load_dotenv()
+
 INDEX_PATH = "faiss_index/chunks.index"
 METADATA_PATH = "data/metadata.json"
 EMBED_MODEL_NAME = "allenai/longformer-base-4096"
 GEN_LLM_MODEL = "EleutherAI/gpt-neo-125M"
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-load_dotenv()
-client = genai.Client()
 
 # -------------------------------
 # INITIALIZATION (runs once)
@@ -36,12 +37,15 @@ with open(METADATA_PATH, "r", encoding="utf-8") as f:
 
 print("Loading local LLM for answer generation...")
 gen_tokenizer = AutoTokenizer.from_pretrained(GEN_LLM_MODEL)
-gen_model = AutoModelForCausalLM.from_pretrained(GEN_LLM_MODEL, torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32)
+gen_model = AutoModelForCausalLM.from_pretrained(
+    GEN_LLM_MODEL,
+    torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32
+)
 gen_model.to(device)
 generator = pipeline("text-generation", model=gen_model, tokenizer=gen_tokenizer, device=0 if torch.cuda.is_available() else -1)
 
 # -------------------------------
-# FUNCTIONS TO USE ANYWHERE
+# FUNCTIONS
 # -------------------------------
 
 def embed_query(text):
@@ -75,18 +79,37 @@ def build_prompt(query, retrieved_chunks):
     prompt += f"\nQuestion: {query}\nAnswer:"
     return prompt
 
-# def generate_answer(prompt, max_tokens=200):
-#     output = generator(prompt, max_new_tokens=max_tokens, do_sample=True, temperature=0.7)[0]["generated_text"]
-#     return output.strip()
+def generate_answer(prompt, max_tokens=300):
+    headers = {
+        "Authorization": f"Bearer {os.getenv('OPENROUTER_API_KEY')}",
+        "Content-Type": "application/json"
+    }
 
+    if os.getenv("HTTP_REFERER"):
+        headers["HTTP-Referer"] = os.getenv("HTTP_REFERER")
+    if os.getenv("X_TITLE"):
+        headers["X-Title"] = os.getenv("X_TITLE")
 
+    body = {
+        "model": "deepseek/deepseek-chat",
+        "messages": [
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        "max_tokens": max_tokens
+    }
 
+    try:
+        response = requests.post(
+            "https://openrouter.ai/api/v1/chat/completions",
+            headers=headers,
+            json=body
+        )
+        response.raise_for_status()
+        return response.json()["choices"][0]["message"]["content"].strip()
 
-def generate_answer(prompt, max_tokens=200):
-    
-    client = genai.Client()
-
-    response = client.models.generate_content(
-        model="gemini-2.5-flash", contents=f"{prompt}"
-    )
-    return response.text.strip()
+    except requests.RequestException as e:
+        print(f"❌ DeepSeek API Error: {e}")
+        return "Error: Failed to generate response from DeepSeek."
