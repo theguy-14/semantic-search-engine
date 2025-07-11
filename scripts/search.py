@@ -4,19 +4,23 @@ os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
 import json
 from collections import defaultdict
-from retrieve_db import retrieve_chunks, build_prompt, generate_answer
+from os.path import basename
+from scripts.retrieve_db import retrieve_chunks, build_prompt, generate_answer
 
-if __name__ == "__main__":
-    while True:
-        query = input("\nEnter your query (or type 'exit' to quit'): ")
-        if query.lower() == "exit":
-            break
+with open("./data/pdf_metadata.json", "r", encoding="utf-8") as f:
+    metadata = json.load(f)
 
-        print("\n🔍 Retrieving relevant chunks...")
+# if __name__ == "__main__":
+#     while True:
+#         query = input("\nEnter your query (or type 'exit' to quit'): ")
+#         if query.lower() == "exit":
+#             break
+
+#         print("\n🔍 Retrieving relevant chunks...")
+def run_query(query):
         chunks = retrieve_chunks(query)
 
-        
-
+        print("\n🔍 Grouping chunks by document...")
         grouped_docs = defaultdict(list)
         for item in chunks:
             grouped_docs[item['document_pdf']].append(item['snippet'])
@@ -49,24 +53,41 @@ if __name__ == "__main__":
         }
 
         # print(json.dumps(output, indent=2, ensure_ascii=False))
-        print(f"\n📄 Answer: {answer}")
+        # print(f"\n📄 Answer: {answer}")
 
         print(prompt)
 
         results = []
 
-        # for doc in doc_objects:
-        #     prompt = (
-        #         f"Using the following excerpts from the document {doc['doc_name']}, "
-        #         f"answer the question as precisely as possible.\n\n"
-        #         f"Content:\n{doc['concatenated_text']}\n\n"
-        #         f"Question: {query}\nAnswer:"
-        #     )
-        #     answer = generate_answer(prompt) 
-        #     results.append({
-        #         "doc_id": doc["doc_id"],
-        #         "doc_name": doc["doc_name"],
-        #         "answer": answer
-        #     })
+        for doc in doc_objects:
+            prompt = (
+                f"answer the question as precisely as possible.\n\n"
+                f"Content:\n{doc['concatenated_text']}\n\n"
+                f"Question: {query}\nAnswer:"
+            )
 
-        #     print(results)
+            object_key = basename(f"{doc['doc_name']}").split("v")[0]
+            data = metadata.get(object_key)
+
+            answer = generate_answer(prompt) 
+            results.append({
+                "title": data.get("title"),
+                "authors": data.get("authors"),
+                "doc_id": doc["doc_id"],
+                "doc_name": basename(f"{doc['doc_name']}"),
+                "source": doc["doc_name"],
+                "context": answer
+            })
+
+            documents=[]
+            for result in results:
+                documents.append(result["doc_name"])
+
+        final_response = {
+            "question": query,
+            "overall_response": answer,
+            "documents": documents,
+            "docwise_responses": results
+        }
+
+        return final_response
