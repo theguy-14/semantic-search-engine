@@ -39,7 +39,7 @@ def get_arxiv_metadata(arxiv_id):
         "pdf_url": pdf_url or f"https://arxiv.org/pdf/{arxiv_id}.pdf"
     }
 
-def process_arxiv_pdfs(pdf_dir):
+def process_arxiv_pdfs(pdf_dir=PDF_DIR, output_path=OUTPUT_PATH):
     metadata_store = {}
     filenames = [f for f in os.listdir(pdf_dir) if f.endswith(".pdf")]
 
@@ -66,5 +66,7 @@ def process_arxiv_pdfs(pdf_dir):
 
     print(f"\n Metadata saved to {OUTPUT_PATH}")
 
-if __name__ == "__main__":
-    process_arxiv_pdfs(PDF_DIR)
+    return "200 OK"
+
+# if __name__ == "__main__":
+#     process_arxiv_pdfs(PDF_DIR)
