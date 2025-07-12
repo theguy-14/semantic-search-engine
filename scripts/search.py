@@ -55,28 +55,22 @@ def run_query(query):
         # print(json.dumps(output, indent=2, ensure_ascii=False))
         # print(f"\n📄 Answer: {answer}")
 
-        print(prompt)
+        # print(prompt)
 
         results = []
 
         for doc in doc_objects:
-            prompt = (
-                f"answer the question as precisely as possible.\n\n"
-                f"Content:\n{doc['concatenated_text']}\n\n"
-                f"Question: {query}\nAnswer:"
-            )
 
             object_key = basename(f"{doc['doc_name']}").split("v")[0]
             data = metadata.get(object_key)
 
-            answer = generate_answer(prompt) 
             results.append({
                 "title": data.get("title"),
                 "authors": data.get("authors"),
                 "doc_id": doc["doc_id"],
                 "doc_name": basename(f"{doc['doc_name']}"),
                 "source": doc["doc_name"],
-                "context": answer
+                "context": doc['concatenated_text']
             })
 
             documents=[]
