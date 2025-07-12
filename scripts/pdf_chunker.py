@@ -54,7 +54,8 @@ def chunk_text(text, words_per_chunk=500):
     return chunks
 
 
-def process_all_pdfs(pdf_dir, output_path):
+def process_all_pdfs(pdf_dir=PDF_DIR, output_path=OUTPUT_JSON):
+
     all_chunks = []
     for filename in tqdm(os.listdir(pdf_dir)):
         if filename.endswith(".pdf"):
@@ -77,6 +78,4 @@ def process_all_pdfs(pdf_dir, output_path):
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(all_chunks, f, indent=2, ensure_ascii=False)
 
-
-if __name__ == "__main__":
-    process_all_pdfs(PDF_DIR, OUTPUT_JSON)
+    return "200 OK"

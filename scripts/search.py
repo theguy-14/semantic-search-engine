@@ -7,8 +7,6 @@ from collections import defaultdict
 from os.path import basename
 from scripts.retrieve_db import retrieve_chunks, build_prompt, generate_answer
 
-with open("./data/pdf_metadata.json", "r", encoding="utf-8") as f:
-    metadata = json.load(f)
 
 # if __name__ == "__main__":
 #     while True:
@@ -18,7 +16,12 @@ with open("./data/pdf_metadata.json", "r", encoding="utf-8") as f:
 
 #         print("\n🔍 Retrieving relevant chunks...")
 def run_query(query):
+        
+        with open("./data/pdf_metadata.json", "r", encoding="utf-8") as f:
+            metadata = json.load(f)    
+
         chunks = retrieve_chunks(query)
+        print(chunks)
 
         print("\n🔍 Grouping chunks by document...")
         grouped_docs = defaultdict(list)
@@ -29,7 +32,7 @@ def run_query(query):
         for idx, (doc_name, snippets) in enumerate(grouped_docs.items()):
             concatenated_text = " ".join(snippets)
             doc_obj = {
-                "doc_id": f"doc_{idx+1}",
+                "doc_id": basename(doc_name).split("v")[0],
                 "doc_name": doc_name,
                 "concatenated_text": concatenated_text
             }
@@ -37,25 +40,25 @@ def run_query(query):
 
         print("📝 Building prompt & generating answer...")
         prompt = build_prompt(query, chunks)
-        answer = generate_answer(prompt)
+        overall_answer = generate_answer(prompt)
 
-        output = {
-            "question": query,
-            "answer": answer,
-            "sources": [
-                {
-                    "document_pdf": item["document_pdf"],
-                    "chunk_id": item["chunk_id"],
-                    "snippet": item["snippet"]
-                }
-                for item in chunks
-            ]
-        }
+        # output = {
+        #     "question": query,
+        #     "answer": answer,
+        #     "sources": [
+        #         {
+        #             "document_pdf": item["document_pdf"],
+        #             "chunk_id": item["chunk_id"],
+        #             "snippet": item["snippet"]
+        #         }
+        #         for item in chunks
+        #     ]
+        # }
 
         # print(json.dumps(output, indent=2, ensure_ascii=False))
         # print(f"\n📄 Answer: {answer}")
 
-        print(prompt)
+        # print(prompt)
 
         results = []
 
@@ -85,7 +88,7 @@ def run_query(query):
 
         final_response = {
             "question": query,
-            "overall_response": answer,
+            "overall_response": overall_answer,
             "documents": documents,
             "docwise_responses": results
         }
