@@ -10,7 +10,7 @@ from nltk.tokenize import sent_tokenize
 
 PDF_DIR = "./pdfs"
 OUTPUT_JSON = "./data/all_chunks.json"
-WORDS_PER_CHUNK = 500
+WORDS_PER_CHUNK = 250
 
 
 def extract_text_from_pdf(pdf_path):
@@ -21,7 +21,7 @@ def extract_text_from_pdf(pdf_path):
     return text
 
 
-def chunk_text(text, words_per_chunk=500):
+def chunk_text(text, words_per_chunk=250):
     sentences = sent_tokenize(text)
     chunks = []
     current_chunk = ""
