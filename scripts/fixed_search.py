@@ -23,7 +23,7 @@ class FixedSearchEngine:
         
         # Use better embedding model for semantic search
         self.embed_model_name = "sentence-transformers/all-MiniLM-L6-v2"
-        self.index_path = "faiss_index/fixed_chunks.index"
+        self.index_path = "faiss_index/chunks.index"
         self.metadata_path = "data/fixed_metadata.json"
         self.gemini_api_key = os.getenv("GEMINI_API_KEY")
         

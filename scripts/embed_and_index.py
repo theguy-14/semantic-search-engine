@@ -16,7 +16,7 @@ import gc
 
 # Paths
 CHUNK_PATH = "data/all_chunks.json"
-INDEX_PATH = "faiss_index/.indfixed_chunksex"
+INDEX_PATH = "faiss_index/chunks.index"
 METADATA_PATH = "data/fixed_metadata.json"
 
 class ImprovedEmbeddingIndexer:
